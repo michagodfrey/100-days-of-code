@@ -17,3 +17,13 @@
 
 **Link to work:** https://github.com/michagodfrey/treatment-prep-chart-generator/tree/gh-pages
 **Tweet:** https://twitter.com/Michael07865192/status/1470328103368986625
+
+### Day 3: December 14, 2021 
+
+**Today's Progress**: Marginal gains in understanding the basics of React, mostly components and props. 
+
+**Thoughts:** Felt like a grind today, and I will keep grinding until I get it. 
+
+**Link to work:** I am using Treehouse courses on this, React track and mainly this practice https://teamtreehouse.com/library/introducing-the-practice-37
+**Tweet:** https://twitter.com/Michael07865192/status/1470699432274399240
+
