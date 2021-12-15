@@ -27,3 +27,13 @@
 **Link to work:** I am using Treehouse courses on this, React track and mainly this practice https://teamtreehouse.com/library/introducing-the-practice-37
 **Tweet:** https://twitter.com/Michael07865192/status/1470699432274399240
 
+
+### Day 4: December 15, 2021 
+
+**Today's Progress**: I managed to learn a little bit about React props and rendering. I gained a little more insight into how props work. 
+
+**Thoughts:** Another slow day. I am limited by not yet understanding the fundamentals and syntax of react. The Treehouse coursework on React seems a little dated, the concepts not sticking and the challenges beyond me. 
+
+**Link to work:** Worked on this couse a bit today, final challenge and quiz beyond my abilities for the time being https://teamtreehouse.com/library/react-components
+**Tweet:** https://twitter.com/Michael07865192/status/1471057289306001412
+
