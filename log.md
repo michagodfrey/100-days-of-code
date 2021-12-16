@@ -9,6 +9,7 @@
 **Link to work:** https://github.com/michagodfrey/treatment-prep-chart-generator
 **Tweet:** https://twitter.com/Michael07865192/status/1469984231405518857
 
+
 ### Day 2: December 13, 2021 
 
 **Today's Progress**:I wasn't happy with the table in the chem prep chart page so I added some styling. I was planning futher steps to add more chemicals and types of treatments. 
@@ -17,6 +18,7 @@
 
 **Link to work:** https://github.com/michagodfrey/treatment-prep-chart-generator/tree/gh-pages
 **Tweet:** https://twitter.com/Michael07865192/status/1470328103368986625
+
 
 ### Day 3: December 14, 2021 
 
@@ -36,4 +38,16 @@
 
 **Link to work:** Worked on this couse a bit today, final challenge and quiz beyond my abilities for the time being https://teamtreehouse.com/library/react-components
 **Tweet:** https://twitter.com/Michael07865192/status/1471057289306001412
+
+
+### Day 5: December 16, 2021 
+
+**Today's Progress:** Continued my React journey, was hampered by some bad luck getting React to run. Still, some concepts are starting to sink in and a started a basic react to practice things on my own and move away from coding along with tutorials. 
+
+**Thoughts:** Step by step. 
+
+**Link to work:** https://github.com/michagodfrey/test-react
+**Tweet:** https://twitter.com/Michael07865192
+
+
 
