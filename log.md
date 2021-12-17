@@ -50,4 +50,12 @@
 **Tweet:** https://twitter.com/Michael07865192
 
 
+### Day 6: December 17, 2021 
+
+**Today's Progress:** I finished another tutorial by Web Dev Simplifed. I had an issue with React not working for a while when I tried to install a package. I installed the latest version of Node.js, unusually the version was too low to create React projects but I was doing it before. Anyway, decided to pivot from React for a bit to work on my profile page. 
+
+**Thoughts:** My profile page is amateurish. I'm going to rebuild it with SCSS and better layout and color scheme. The next few days will focus on that and make it look like I'm serious about a job as a web developer. 
+
+**Link to work:** https://michagodfrey.github.io/
+**Tweet:** https://twitter.com/Michael07865192/status/1471777713425829889
 
