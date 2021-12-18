@@ -59,3 +59,12 @@
 **Link to work:** https://michagodfrey.github.io/
 **Tweet:** https://twitter.com/Michael07865192/status/1471777713425829889
 
+### Day 7: December 18, 2021 
+
+**Today's Progress:** I opened up project 4 from the TechDegree that I completed about 2 months ago. This project made use of SASS and made a copy of it and started building a new portfolio page that might actually look job worthy when it's finished. 
+
+**Thoughts:** I do like the SASS as a system for organizing styling of webpages and for a uniform style. 
+
+**Link to work:** Here is project 4, not really today's work but the basis for it. https://github.com/michagodfrey/web-style-guide
+**Tweet:** https://twitter.com/Michael07865192/status/1472151064006651907
+
