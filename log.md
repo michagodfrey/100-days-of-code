@@ -47,7 +47,7 @@
 **Thoughts:** Step by step. 
 
 **Link to work:** https://github.com/michagodfrey/test-react
-**Tweet:** https://twitter.com/Michael07865192
+**Tweet:** https://twitter.com/Michael07865192/status/1471410133074792448
 
 
 ### Day 6: December 17, 2021 
@@ -68,3 +68,12 @@
 **Link to work:** Here is project 4, not really today's work but the basis for it. https://github.com/michagodfrey/web-style-guide
 **Tweet:** https://twitter.com/Michael07865192/status/1472151064006651907
 
+
+### Day 8: December 19, 2021 
+
+**Today's Progress:** Worked on the profile page. Had more difficulty with css transitions than I anticipated. I had to put that part aside for now beacuse I  was getting bogged down and didn't make as much progress as time allowed. 
+
+**Thoughts:** It's still frustrating when elements don't behave as you'd like and 
+
+**Link to work:** Home/Web/project4 on my Dell Lattitude, will be pushed to github when first draft is ready
+**Tweet:** https://twitter.com/Michael07865192/status/1472516449629466625
