@@ -77,3 +77,13 @@
 
 **Link to work:** Home/Web/project4 on my Dell Lattitude, will be pushed to github when first draft is ready
 **Tweet:** https://twitter.com/Michael07865192/status/1472516449629466625
+
+
+### Day 9: December 20, 2021 
+
+**Today's Progress:** Another day of slow progress despite dedicating available time before and after work. Marinal progress while I got hung up on the simplest things like elements not positioning as I intend. 
+
+**Thoughts:** It occurred to me to use the responsive layout of project 2 in treehouse to do the projects. Tomorrow morning I know where to start. 
+
+**Link to work:** Home/Web/project4 on my Dell Lattitude, still not worthy of public viewing, but hopefully by tomorrow the general layout will be in place. 
+**Tweet:** https://twitter.com/Michael07865192/status/1472875302577528832
