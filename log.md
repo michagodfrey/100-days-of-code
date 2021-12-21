@@ -87,3 +87,16 @@
 
 **Link to work:** Home/Web/project4 on my Dell Lattitude, still not worthy of public viewing, but hopefully by tomorrow the general layout will be in place. 
 **Tweet:** https://twitter.com/Michael07865192/status/1472875302577528832
+
+
+### Day 10: December 21, 2021 
+
+**Today's Progress:** Made strides today in my understanding of flexbox and background images/images. I am now set to have slick, uniform project displays in a responsive layout. 
+
+**Thoughts:** It's good to feel good about it all again, despite, I admit, a long time spent on what seems fairly trivial. 
+
+**Link to work:** Home/Web/project4 on my Dell Lattitude, still not worthy of public viewing, for real tomorrow I should have something, I hope!. 
+**Tweet:** https://twitter.com/Michael07865192/status/1473246160588398594
+
+
+
