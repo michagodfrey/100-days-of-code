@@ -100,3 +100,11 @@
 
 
 
+### Day 11: December 23, 2021 
+
+**Today's Progress:** Implemented an email service with added contact page in the portfolio. 
+
+**Thoughts:** Still slogging through and moving at a snails pace despite at least 5 hours today and 4 yesterday. I feel like the universe is throtlling me and wouldn't have got this far if I wasn't determined. Still just get little things that behave in ways I can work out. Having issues with SVG icons. 
+
+**Link to work:** Home/Web/project4 on my Dell Lattitude, still not worthy of upload. 
+**Tweet:** https://twitter.com/Michael07865192/status/1473957803911827457
