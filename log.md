@@ -108,3 +108,14 @@
 
 **Link to work:** Home/Web/project4 on my Dell Lattitude, still not worthy of upload. 
 **Tweet:** https://twitter.com/Michael07865192/status/1473957803911827457
+
+
+
+### Day 12: December 24, 2021 
+
+**Today's Progress:** Improved my contact page with emailjs, along with the general layout of the portfolio. 
+
+**Thoughts:** Did better today, when I make tangible progress, I end the day feeling much better. 
+
+**Link to work:** Home/Web/project4 on my Dell Lattitude, still not worthy of upload. 
+**Tweet:** https://twitter.com/Michael07865192/status/1474334545390362626
