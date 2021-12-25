@@ -119,3 +119,13 @@
 
 **Link to work:** Home/Web/project4 on my Dell Lattitude, still not worthy of upload. 
 **Tweet:** https://twitter.com/Michael07865192/status/1474334545390362626
+
+
+### Day 13: December 25, 2021 
+
+**Today's Progress:** Made strides in the presentation of the portfolio. Improved the contact page, projects, svg icons and added another Treehouse project to fill out the project list. I just need to jazz up the intro and about section then it will be ready to become my main page. 
+
+**Thoughts:** Another good day. There were challenges but with persistence I overcame them. 
+
+**Link to work:** https://michagodfrey.github.io/employee-directory/
+**Tweet:** https://twitter.com/Michael07865192/status/1474658454081921024
