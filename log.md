@@ -129,3 +129,13 @@
 
 **Link to work:** https://michagodfrey.github.io/employee-directory/
 **Tweet:** https://twitter.com/Michael07865192/status/1474658454081921024
+
+
+### Day 14: December 26, 2021 
+
+**Today's Progress:** Made good progress and I'm almost ready to upload the portfolio as my github page. Just need to improve the fonts and decide on a color scheme. 
+
+**Thoughts:**  My portfolio is coming along nicely and I am happy with how it looks. 
+
+**Link to work:** Home/Web/project4 on my Dell Lattitude, almost ready to be my new github page
+**Tweet:** https://twitter.com/Michael07865192/status/1475048500236734467
