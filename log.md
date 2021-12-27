@@ -139,3 +139,14 @@
 
 **Link to work:** Home/Web/project4 on my Dell Lattitude, almost ready to be my new github page
 **Tweet:** https://twitter.com/Michael07865192/status/1475048500236734467
+
+
+
+### Day 15: December 27, 2021 
+
+**Today's Progress:** Finsihed the draft of the improved portfolio. Pushed to github, had to create new branch and merge it. 
+
+**Thoughts:**  I decided on a color scheme (blue/yellow). Have some clear things to improve moving forward. I'm going to add some shadows and small improvements. Make the drop down more fluid, add a better photo of me and improve the messaging experience. 
+
+**Link to work:** https://michagodfrey.github.io
+**Tweet:** https://twitter.com/Michael07865192/status/1475442549078708226
