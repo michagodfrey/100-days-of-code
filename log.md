@@ -150,3 +150,13 @@
 
 **Link to work:** https://michagodfrey.github.io
 **Tweet:** https://twitter.com/Michael07865192/status/1475442549078708226
+
+
+### Day 16: December 28, 2021 
+
+**Today's Progress:** Didn't have as much time today because of christmas commitments, but managed to fix a bug with the about me dropdown and fix a layout issue in mobile view. However, due to my limitations with git push, I somehow lost my changes and don't know how to locate my files that contain the up to date files. 
+
+**Thoughts:**  By fixing the bug I learned something about selecting elements in the DOM and applying styles. It seems that when you give an element a style with javascript elementName.style.dispay = is an inline style. This has implications. Also, I somehow made my showcase folder revert to the old project and in doing so I lost the changes. This is a similar thing that happened with the treatment chart. Lucky it's backed up, I'll have to pull it and start over. I had to edit the code directly. Need to learn more about git. 
+
+**Link to work:** Progress likely deleted. 
+**Tweet:** https://twitter.com/Michael07865192/status/1475763408670584832
