@@ -160,3 +160,13 @@
 
 **Link to work:** Progress likely deleted. 
 **Tweet:** https://twitter.com/Michael07865192/status/1475763408670584832
+
+
+### Day 17: December 28, 2021 
+
+**Today's Progress:** Managed to pull the online repository (it was suprisingly simple - $ git pull <url>) and this allowed me to make the minor edits to improve my portfolio. I found a way to install sass on atom, but it doesn't seem to work unfortunately. On the other hand, I can stage an commit changes through atom now. 
+
+**Thoughts:** Yesterday's progress was not deleted. I could find it by switching back to the old branch. Improved my understanding of git. This is my journey, one problem after another rears its ugly head, and I stare it down and solve it. 
+
+**Link to work:** https://michagodfrey.github.io/
+**Tweet:** https://twitter.com/Michael07865192/status/1476124972225482752
