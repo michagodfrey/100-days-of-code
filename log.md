@@ -162,7 +162,7 @@
 **Tweet:** https://twitter.com/Michael07865192/status/1475763408670584832
 
 
-### Day 17: December 28, 2021 
+### Day 17: December 29, 2021 
 
 **Today's Progress:** Managed to pull the online repository (it was suprisingly simple - $ git pull <url>) and this allowed me to make the minor edits to improve my portfolio. I found a way to install sass on atom, but it doesn't seem to work unfortunately. On the other hand, I can stage an commit changes through atom now. 
 
@@ -170,3 +170,13 @@
 
 **Link to work:** https://michagodfrey.github.io/
 **Tweet:** https://twitter.com/Michael07865192/status/1476124972225482752
+  
+  
+### Day 18: December 30, 2021 
+
+**Today's Progress:** I created an image gallery with photos from my mum's place in Fiji. I used baguette box to implement the photo gallery. It's a first step for what will be an actual website showing off their awesome Fiji life. 
+
+**Thoughts:** I was please that I could adapt the Treehouse project 5 for a real world project, however basic. 
+
+**Link to work:** https://michagodfrey.github.io/fiji/
+**Tweet:** https://twitter.com/Michael07865192/status/1476485919351853056
