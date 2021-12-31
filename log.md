@@ -180,3 +180,13 @@
 
 **Link to work:** https://michagodfrey.github.io/fiji/
 **Tweet:** https://twitter.com/Michael07865192/status/1476485919351853056
+
+  
+### Day 19: December 31, 2021 
+
+**Today's Progress:** More polishing of my portfolio, added box shadows, got the intro looking the way I looked and improved the contact page a little. 
+
+**Thoughts:** I attempted to make the about section slide in and out with the show more/show less button, but I learned that display none doesn't work well with translate and opacicity/display: hidden mean the elements still take up the same amount of space. I will need something more advanced implement this feature. 
+
+**Link to work:** https://michagodfrey.github.io/
+**Tweet:** https://twitter.com/Michael07865192/status/1476848255191322624
