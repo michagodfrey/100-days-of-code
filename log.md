@@ -190,3 +190,13 @@
 
 **Link to work:** https://michagodfrey.github.io/
 **Tweet:** https://twitter.com/Michael07865192/status/1476848255191322624
+
+  
+### Day 20: January 1, 2022
+
+**Today's Progress:** Only got in about an hour today, but added an embedded map with embedgooglemap.net in the Fiji page. No API needed but it took some work to make the map responsive, W3 Schools had code I could adapt for it. 
+  
+**Thoughts:**  The First day of a new year and I can see my habit of coding every day is forming. Even though I was tired after going to the beach this morning, I snuck in over and hour of coding work. 
+
+**Link to work:** Home/Web/fiji on my laptop
+**Tweet:** https://twitter.com/Michael07865192/status/1477232144774619137
