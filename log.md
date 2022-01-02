@@ -200,3 +200,13 @@
 
 **Link to work:** Home/Web/fiji on my laptop
 **Tweet:** https://twitter.com/Michael07865192/status/1477232144774619137
+
+  
+### Day 21: January 2, 2022
+
+**Today's Progress:** Did up the Fiji page to something worthy of adding to my showcase. 
+  
+**Thoughts:**  Sometimes I still get bogged down when I try to create responsive layouts that change with media queries. That happened today, but I found that it was often one line of CSS that was screwing things up and taking a break and coming back fresh often works wonders too.
+
+**Link to work:** https://michagodfrey.github.io/fiji/
+**Tweet:** https://twitter.com/Michael07865192/status/1477516913089548290
