@@ -210,3 +210,13 @@
 
 **Link to work:** https://michagodfrey.github.io/fiji/
 **Tweet:** https://twitter.com/Michael07865192/status/1477516913089548290
+  
+  
+### Day 22: January 3, 2022
+
+**Today's Progress:** Today I tackled (and finished in the same day!) the added feature of a loading animation and auto return to index.html when a user sends a message. The way to do a loading animation was to put a gif in the html with display set to none and set it to flex when the user hits send. 
+  
+**Thoughts:** I am pretty chuffed that I got it done in one sitting, I encountered problems, but figured them out. In fact, one had me baffled, but I laughed when I saw what I did. I set the location.href to the live page, github.io, instead of index.html. So after the first message I couldn't figure out why not only it stopped working, but the code had disappeared! Lol!
+
+**Link to work:** https://michagodfrey.github.io/contact.html
+**Tweet:** https://twitter.com/Michael07865192/status/1477962125767184384
