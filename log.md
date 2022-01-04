@@ -220,3 +220,13 @@
 
 **Link to work:** https://michagodfrey.github.io/contact.html
 **Tweet:** https://twitter.com/Michael07865192/status/1477962125767184384
+  
+  
+ ### Day 22: January 3, 2022
+
+**Today's Progress:** Today I set up VS code to follow along with react in 10 hours tutorial https://www.youtube.com/watch?v=4UZrsTqkcW4&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&start_radio=1&ab_channel=freeCodeCamp.org. Didn't have time to build much but sometimes you just need to knuckle down. 
+  
+**Thoughts:** I think the React course will be slow, I will need a system to get some of my *own* code out on a daily basis for this challenge. I guess I could try building the ant app or something as I go? 
+
+**Link to work:** VS code
+**Tweet:**  https://twitter.com/Michael07865192/status/1478317405252194305
