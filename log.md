@@ -230,3 +230,13 @@
 
 **Link to work:** VS code
 **Tweet:**  https://twitter.com/Michael07865192/status/1478317405252194305
+  
+  
+### Day 24: January 5, 2022
+
+**Today's Progress:** Continuing the react full course. It was helpful revision on components, what JSX is and using CSS.
+  
+**Thoughts:** Not much to think about today. I just wish I had more time to dedicate to coding. The sooner I can gain some competence with React to do my own stuff the better it looks for #100 days of code. 
+
+**Link to work:** https://github.com/michagodfrey/react-tutorial
+**Tweet:** https://twitter.com/Michael07865192/status/1478673867346366464
