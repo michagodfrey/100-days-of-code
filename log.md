@@ -240,3 +240,13 @@
 
 **Link to work:** https://github.com/michagodfrey/react-tutorial
 **Tweet:** https://twitter.com/Michael07865192/status/1478673867346366464
+  
+  
+### Day 25: January 6, 2022
+
+**Today's Progress:** Continuing the react full course. Had a few 'aha' moments with components, props and maps. 
+  
+**Thoughts:** I like how the course goes through every methodically and shows the rationale for why everything is done the way it is. 
+  
+**Link to work:** https://github.com/michagodfrey/react-tutorial
+**Tweet:** https://twitter.com/Michael07865192/status/1479049687424385026
