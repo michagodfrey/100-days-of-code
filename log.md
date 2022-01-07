@@ -250,3 +250,13 @@
   
 **Link to work:** https://github.com/michagodfrey/react-tutorial
 **Tweet:** https://twitter.com/Michael07865192/status/1479049687424385026
+
+  
+### Day 26: January 7, 2022
+
+**Today's Progress:** Continued the react tutorial, started the advanced section and completed the useState lessons. Tomorrow I will tackle the first project, birthday something. 
+  
+**Thoughts:** Today I read about ageism in the tech industry, it's a little concerning and I know I'm at a disadvantage but I'm not going to let it disuade me from pursuing my objective of working in tech. 
+  
+**Link to work:** https://github.com/michagodfrey/react-tutorial-advanced
+**Tweet:** https://twitter.com/Michael07865192/status/1479407367062122497
