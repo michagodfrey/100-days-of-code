@@ -260,3 +260,13 @@
   
 **Link to work:** https://github.com/michagodfrey/react-tutorial-advanced
 **Tweet:** https://twitter.com/Michael07865192/status/1479407367062122497
+  
+
+### Day 27: January 8, 2022
+
+**Today's Progress:** Completed first project - birthday list. Continued the react tutorial and completed useEffect lessons
+  
+**Thoughts:** The projects turned out to be a paid course on Udemy. But for a mere $25 AUD for the lot seems well worth it so I went for it. Tackling the projects helps me notice the little things that I don't when watching tutorials. 
+  
+**Link to work:** https://github.com/michagodfrey/react-projects
+**Tweet:** 
