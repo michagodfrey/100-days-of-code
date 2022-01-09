@@ -264,9 +264,19 @@
 
 ### Day 27: January 8, 2022
 
-**Today's Progress:** Completed first project - birthday list. Continued the react tutorial and completed useEffect lessons
+**Today's Progress:** Completed first project - birthday list. Continued the react tutorial and completed useEffect lessons. Couln't upload to githut and tweet because of a few noon errors I made uploading to github. 
   
-**Thoughts:** The projects turned out to be a paid course on Udemy. But for a mere $25 AUD for the lot seems well worth it so I went for it. Tackling the projects helps me notice the little things that I don't when watching tutorials. 
+**Thoughts:** The projects turned out to be a paid course on Udemy. But for a mere $25 AUD for the lot seems well worth it so I went for it. Tackling the projects helps me notice the little things that I don't when watching tutorials. While my knowledge of git and github has improved a lot, I have a long way to go.
   
 **Link to work:** https://github.com/michagodfrey/react-projects
-**Tweet:** 
+**Tweet:** https://twitter.com/Michael07865192/status/1480126406780592129
+
+  
+### Day 28: January 9, 2022
+
+**Today's Progress:** Continued turorial, didn't start projects as planned. However, I did resolve the github/git issues nicely and pushed my work remotely. 
+  
+**Thoughts:** Today I was tired, had distracting responsibilities and schedule was out of whack. Was a little disapointed with my progress this weekend. Despite the extra time, only accomplished as much as a weekday on both sat and sun. 
+  
+**Link to work:** https://github.com/michagodfrey/react-tutorial-advanced
+**Tweet:** https://twitter.com/Michael07865192/status/1480130162846883843
