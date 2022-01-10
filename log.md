@@ -280,3 +280,13 @@
   
 **Link to work:** https://github.com/michagodfrey/react-tutorial-advanced
 **Tweet:** https://twitter.com/Michael07865192/status/1480130162846883843
+
+  
+Day 29: January 10, 2022
+
+Today's Progress: Some progress in the 02-Tours tutorial. I was setback by the node folders not downloading, so wasted my morning on technical difficulties. I started with an online sandbox that should be a better way of sharing my work and I won't be downloading copius files. 
+
+Thoughts: Frustrated with how often I have set backs from things that I can't control. It's embarrasing how poorly I've done today. 
+
+Link to work: https://codesandbox.io/s/react-project-02-tours-w9k4w?file=/src/Tours.js
+Tweet: https://twitter.com/Michael07865192/status/1480489079875592193
