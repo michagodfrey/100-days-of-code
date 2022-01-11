@@ -290,3 +290,13 @@ Thoughts: Frustrated with how often I have set backs from things that I can't co
 
 Link to work: https://codesandbox.io/s/react-project-02-tours-w9k4w?file=/src/Tours.js
 Tweet: https://twitter.com/Michael07865192/status/1480489079875592193
+  
+  
+Day 30: January 11, 2022
+
+Today's Progress: Working on React Projects and finished off 02-tours, completed 03-reviews and did most of 04 accordion. 2 and 3 were a bit beyond me and I had to look at the solution to solve them. But I have done all of 4 so far by only looking at past code examples and extraporatling. That is progress.
+
+Thoughts: I think I can finish the final part of 04-accordion without checking the solution, right now all the accordion boxes open and close at once. I need to figure out how to loop through them and I think 03-reviews has clues. 
+
+Link to work: https://codesandbox.io/s/04-accordion-6wsmc?file=/src/Question.js
+Tweet: https://twitter.com/Michael07865192/status/1480858585391198211
