@@ -300,3 +300,14 @@ Thoughts: I think I can finish the final part of 04-accordion without checking t
 
 Link to work: https://codesandbox.io/s/04-accordion-6wsmc?file=/src/Question.js
 Tweet: https://twitter.com/Michael07865192/status/1480858585391198211
+  
+  
+Day 31: January 12, 2022
+
+Today's Progress: Added 2 photos to the Fiji webpage and finished the 04-accordion, or viewed the soltion rather after couple hours trying. 
+
+Thoughts: A little disapointed I didn't figure out the more strait forward way to import the data into App. I wouldn't have had the accordian problem. 
+
+Link to work: https://michagodfrey.github.io/fiji/ https://codesandbox.io/s/04-accordion-6wsmc?file=/src/Question.js
+Tweet: https://twitter.com/Michael07865192/status/1481217239286415361
+
