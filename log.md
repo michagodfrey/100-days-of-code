@@ -311,3 +311,12 @@ Thoughts: A little disapointed I didn't figure out the more strait forward way t
 Link to work: https://michagodfrey.github.io/fiji/ https://codesandbox.io/s/04-accordion-6wsmc?file=/src/Question.js
 Tweet: https://twitter.com/Michael07865192/status/1481217239286415361
 
+  
+Day 33: January 13, 2022
+
+Today's Progress: Little progress on React, only ended project 4. Also noticed and issued where the SVGs were not displaying on Chrome browers this whole time. Hoever, it seems not to be showing on sadfari still. Also, I notice that on interent explorer it looks like a disaster. 
+
+Thoughts: Another frustrated day, 2 in row now. Dedication and focus has been the problem if I'm honest. 
+  
+Link to work: https://michagodfrey.github.io/ https://codesandbox.io/s/05-menu-1fed2
+Tweet: https://twitter.com/Michael07865192/status/1481577912440881152
