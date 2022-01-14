@@ -320,3 +320,13 @@ Thoughts: Another frustrated day, 2 in row now. Dedication and focus has been th
   
 Link to work: https://michagodfrey.github.io/ https://codesandbox.io/s/05-menu-1fed2
 Tweet: https://twitter.com/Michael07865192/status/1481577912440881152
+
+  
+Day 34: January 14, 2022
+
+Today's Progress: Started a new React tutorial, was having bad luck, code not working. In the evening, I completed my first Frontend Mentor challenge, a social media card, 
+
+Thoughts: I can't keep slugging through React if I'm supposed to be completing stuff in 100 days of code. I think I should practice what I have learned, especially in CSS and JavaScript.
+
+Link to work: https://github.com/michagodfrey/FE-mentor-card/tree/gh-pages https://www.frontendmentor.io/solutions/social-media-card-aFIJKE9Z6
+Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
