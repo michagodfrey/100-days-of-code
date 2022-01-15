@@ -282,51 +282,61 @@
 **Tweet:** https://twitter.com/Michael07865192/status/1480130162846883843
 
   
-Day 29: January 10, 2022
+### Day 29: January 10, 2022
 
-Today's Progress: Some progress in the 02-Tours tutorial. I was setback by the node folders not downloading, so wasted my morning on technical difficulties. I started with an online sandbox that should be a better way of sharing my work and I won't be downloading copius files. 
+**Today's Progress:** Some progress in the 02-Tours tutorial. I was setback by the node folders not downloading, so wasted my morning on technical difficulties. I started with an online sandbox that should be a better way of sharing my work and I won't be downloading copius files. 
 
-Thoughts: Frustrated with how often I have set backs from things that I can't control. It's embarrasing how poorly I've done today. 
+**Thoughts:** Frustrated with how often I have set backs from things that I can't control. It's embarrasing how poorly I've done today. 
 
-Link to work: https://codesandbox.io/s/react-project-02-tours-w9k4w?file=/src/Tours.js
-Tweet: https://twitter.com/Michael07865192/status/1480489079875592193
+**Link to work:** https://codesandbox.io/s/react-project-02-tours-w9k4w?file=/src/Tours.js
+**Tweet:** https://twitter.com/Michael07865192/status/1480489079875592193
   
   
-Day 30: January 11, 2022
+### Day 30: January 11, 2022
 
-Today's Progress: Working on React Projects and finished off 02-tours, completed 03-reviews and did most of 04 accordion. 2 and 3 were a bit beyond me and I had to look at the solution to solve them. But I have done all of 4 so far by only looking at past code examples and extraporatling. That is progress.
+**Today's Progress:** Working on React Projects and finished off 02-tours, completed 03-reviews and did most of 04 accordion. 2 and 3 were a bit beyond me and I had to look at the solution to solve them. But I have done all of 4 so far by only looking at past code examples and extraporatling. That is progress.
 
-Thoughts: I think I can finish the final part of 04-accordion without checking the solution, right now all the accordion boxes open and close at once. I need to figure out how to loop through them and I think 03-reviews has clues. 
+**Thoughts:** I think I can finish the final part of 04-accordion without checking the solution, right now all the accordion boxes open and close at once. I need to figure out how to loop through them and I think 03-reviews has clues. 
 
-Link to work: https://codesandbox.io/s/04-accordion-6wsmc?file=/src/Question.js
-Tweet: https://twitter.com/Michael07865192/status/1480858585391198211
+**Link to work:** https://codesandbox.io/s/04-accordion-6wsmc?file=/src/Question.js
+**Tweet:** https://twitter.com/Michael07865192/status/1480858585391198211
   
   
-Day 31: January 12, 2022
+### Day 31: January 12, 2022
 
-Today's Progress: Added 2 photos to the Fiji webpage and finished the 04-accordion, or viewed the soltion rather after couple hours trying. 
+**Today's Progress:** Added 2 photos to the Fiji webpage and finished the 04-accordion, or viewed the soltion rather after couple hours trying. 
 
-Thoughts: A little disapointed I didn't figure out the more strait forward way to import the data into App. I wouldn't have had the accordian problem. 
+**Thoughts:** A little disapointed I didn't figure out the more strait forward way to import the data into App. I wouldn't have had the accordian problem. 
 
-Link to work: https://michagodfrey.github.io/fiji/ https://codesandbox.io/s/04-accordion-6wsmc?file=/src/Question.js
-Tweet: https://twitter.com/Michael07865192/status/1481217239286415361
+**Link to work:** https://michagodfrey.github.io/fiji/ https://codesandbox.io/s/04-accordion-6wsmc?file=/src/Question.js
+**Tweet:** https://twitter.com/Michael07865192/status/1481217239286415361
 
   
-Day 33: January 13, 2022
+### Day 33: January 13, 2022
 
-Today's Progress: Little progress on React, only ended project 4. Also noticed and issued where the SVGs were not displaying on Chrome browers this whole time. Hoever, it seems not to be showing on sadfari still. Also, I notice that on interent explorer it looks like a disaster. 
+**Today's Progress:** Little progress on React, only ended project 4. Also noticed and issued where the SVGs were not displaying on Chrome browers this whole time. Hoever, it seems not to be showing on sadfari still. Also, I notice that on interent explorer it looks like a disaster. 
 
-Thoughts: Another frustrated day, 2 in row now. Dedication and focus has been the problem if I'm honest. 
+**Thoughts:** Another frustrated day, 2 in row now. Dedication and focus has been the problem if I'm honest. 
   
-Link to work: https://michagodfrey.github.io/ https://codesandbox.io/s/05-menu-1fed2
+**Link to work:** https://michagodfrey.github.io/ https://codesandbox.io/s/05-menu-1fed2
 Tweet: https://twitter.com/Michael07865192/status/1481577912440881152
 
   
-Day 34: January 14, 2022
+### Day 34: January 14, 2022
 
-Today's Progress: Started a new React tutorial, was having bad luck, code not working. In the evening, I completed my first Frontend Mentor challenge, a social media card, 
+**Today's Progress:** Started a new React tutorial, was having bad luck, code not working. In the evening, I completed my first Frontend Mentor challenge, a social media card, 
 
-Thoughts: I can't keep slugging through React if I'm supposed to be completing stuff in 100 days of code. I think I should practice what I have learned, especially in CSS and JavaScript.
+**Thoughts:** I can't keep slugging through React if I'm supposed to be completing stuff in 100 days of code. I think I should practice what I have learned, especially in CSS and JavaScript.
 
-Link to work: https://github.com/michagodfrey/FE-mentor-card/tree/gh-pages https://www.frontendmentor.io/solutions/social-media-card-aFIJKE9Z6
+**Link to work:** https://github.com/michagodfrey/FE-mentor-card/tree/gh-pages https://www.frontendmentor.io/solutions/social-media-card-aFIJKE9Z6
 Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
+
+  
+### Day 35: Janaury 15, 2022
+
+**Today's Progress:** I worked on another challenge by front end mentor. Didn't quite have the time to finish it today. I'm focusing on using grid, BEM (block, element, modifier) naming convention in css, as well as addressng a few faux pax I made in yesterday's somewhat hasilty uploaded submission. 
+
+**Thoughts:** I am humbled and impressed by the number of people who want to offer a hand in my journey to become a web developer. It was disappointing that my first front end project was poorly positioned, but everyone is so kind and helpful. I got a lot out of it. 
+  
+**Link to work:** https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-
+**Tweet:** https://twitter.com/Michael07865192/status/1482300782800416771
