@@ -312,7 +312,7 @@
 **Tweet:** https://twitter.com/Michael07865192/status/1481217239286415361
 
   
-### Day 33: January 13, 2022
+### Day 32: January 13, 2022
 
 **Today's Progress:** Little progress on React, only ended project 4. Also noticed and issued where the SVGs were not displaying on Chrome browers this whole time. Hoever, it seems not to be showing on sadfari still. Also, I notice that on interent explorer it looks like a disaster. 
 
@@ -340,3 +340,14 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
   
 **Link to work:** https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-
 **Tweet:** https://twitter.com/Michael07865192/status/1482300782800416771
+  
+  
+### Day 36: January 16, 2022
+
+**Today's Progress:** Finished the second front end mentor challenge. Ran into a strange issue with gh-pages. Worked on my profile page and linked it to my resume on Google docs. 
+  
+**Thoughts:** For some reason, when I pushed the FE mentor file to gh-pages, they ignored the css folder and took on the css and scss files of the main portfolio! I had to put the normalize and styles css files in the same folder and index.html and then it worked. 
+  
+**Link to work:** https://www.frontendmentor.io/solutions/3column-preview-card-component-dq4M7vC5j
+**Tweet:** https://twitter.com/Michael07865192/status/1482680873753669632
+  
