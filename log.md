@@ -351,3 +351,12 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 **Link to work:** https://www.frontendmentor.io/solutions/3column-preview-card-component-dq4M7vC5j
 **Tweet:** https://twitter.com/Michael07865192/status/1482680873753669632
   
+
+### Day 33: January 17, 2022
+
+**Today's Progress:** Note I missed day 33 before. Worked on tip calculator. 
+  
+**Thoughts:**  Didn't get done much because no morning session, just 2 hours in evening
+
+**Link to work:** Home/Web/frontend-mentor/tip-calculator
+**Tweet:**https://twitter.com/Michael07865192/status/1483047959784996864
