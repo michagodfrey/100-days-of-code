@@ -360,3 +360,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** Home/Web/frontend-mentor/tip-calculator
 **Tweet:**https://twitter.com/Michael07865192/status/1483047959784996864
+
+  
+### Day 37: January 18, 2022
+
+**Today's Progress:** Continued working on tip calculator. Design now responsive. Some calculating functionality.  
+  
+**Thoughts:** Another day of weak progress due to late rise (6am). 
+
+**Link to work:** https://github.com/michagodfrey/frontend-mentor-tip-calculator
+**Tweet:** https://twitter.com/Michael07865192/status/1483389983503560705
