@@ -370,3 +370,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** https://github.com/michagodfrey/frontend-mentor-tip-calculator
 **Tweet:** https://twitter.com/Michael07865192/status/1483389983503560705
+
+  
+### Day 38: January 19, 2022
+
+**Today's Progress:** Improved javascript code. Still have a lot to do a lot though.
+  
+**Thoughts:**  Slow progress, but it's progress. 
+
+**Link to work:** https://michagodfrey.github.io/frontend-mentor-tip-calculator/
+**Tweet:** https://twitter.com/Michael07865192/status/1483756352594132992
