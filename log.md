@@ -390,3 +390,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** https://michagodfrey.github.io/frontend-mentor-tip-calculator/
 **Tweet:** https://twitter.com/Michael07865192/status/1484116309537599491
+  
+  
+### Day 40: January 21, 2022
+
+**Today's Progress:** Still plodded along, didn't have time to finish it today. Stuck on the buttons. 
+  
+**Thoughts:**  Disappointed and a little embarassed I couldn't finish it today.  
+
+**Link to work:** https://michagodfrey.github.io/frontend-mentor-tip-calculator/
+**Tweet:** https://twitter.com/Michael07865192/status/1484481760335302659
