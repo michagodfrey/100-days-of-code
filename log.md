@@ -400,3 +400,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** https://michagodfrey.github.io/frontend-mentor-tip-calculator/
 **Tweet:** https://twitter.com/Michael07865192/status/1484481760335302659
+
+     
+### Day 41: January 22, 2022
+
+**Today's Progress:** Submitted challenge. Finally figured a work around for the buttons and inputs. I think the code is pretty inefficient.  
+  
+**Thoughts:**  It was also a shame that the dimesions were off despite my best efforts and the colors are a bit wrong for the output numbers.   
+
+**Link to work:** https://www.frontendmentor.io/solutions/tip-calculator-POtUwOBly
+**Tweet:** https://twitter.com/Michael07865192/status/1484847177466015745
