@@ -410,3 +410,16 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** https://www.frontendmentor.io/solutions/tip-calculator-POtUwOBly
 **Tweet:** https://twitter.com/Michael07865192/status/1484847177466015745
+  
+  
+### Day 42: January 23, 2022
+
+**Today's Progress:** Did 07-slider in the React projects. Just coded along really as a refresher, then added a component as a little mini challenge by the instructor. 
+  
+**Thoughts:**  I'm gonna make it. 
+
+**Link to work:** https://codesandbox.io/s/07-slider-oyn1i?file=/src/Review.js
+**Tweet:** https://twitter.com/Michael07865192/status/1485196131386929153
+  
+  
+  
