@@ -423,3 +423,11 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
   
   
   
+### Day 43: January 24, 2022
+
+**Today's Progress:** Discovered react render and tried to use to create a simple webpage with links to a few pages. I couldn't get it to work. 
+  
+**Thoughts:**  I have a lot of set backs with React. It's annoying. I have nothing to show for today's work. 
+
+**Link to work:** In the Web/react/test-react folder of my computer
+**Tweet:** https://twitter.com/Michael07865192/status/1485559812247408645
