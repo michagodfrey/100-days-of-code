@@ -431,3 +431,14 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** In the Web/react/test-react folder of my computer
 **Tweet:** https://twitter.com/Michael07865192/status/1485559812247408645
+  
+  
+### Day 44: January 25, 2022
+
+**Today's Progress:** Made some progress learning React. Slowing gaining confidence with it despite the setbacks. 
+  
+**Thoughts:**  Couldn't get routers to work today either. Slept through my alarm somehow, my routine is out a this is annoying and preventing work. 
+
+**Link to work:** https://codesandbox.io/s/08-paragraph-generator-82e61?file=/src/App.js
+**Tweet:** https://twitter.com/Michael07865192/status/1485933659740078083
+
