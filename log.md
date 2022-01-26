@@ -441,4 +441,14 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** https://codesandbox.io/s/08-paragraph-generator-82e61?file=/src/App.js
 **Tweet:** https://twitter.com/Michael07865192/status/1485933659740078083
+  
+  
+### Day 45: January 26, 2022
+
+**Today's Progress:** Did a bit of the React tutorial, although not much. 
+  
+**Thoughts:**  Slow day, unfortunately. Wasn't focussed. 
+
+**Link to work:** https://codesandbox.io/s/10-shopping-list-mp67p?file=/src/App.js
+**Tweet:** https://twitter.com/Michael07865192/status/1486290008311230470
 
