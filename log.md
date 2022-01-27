@@ -452,3 +452,17 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 **Link to work:** https://codesandbox.io/s/10-shopping-list-mp67p?file=/src/App.js
 **Tweet:** https://twitter.com/Michael07865192/status/1486290008311230470
 
+    
+### Day 46: January 27, 2022
+
+**Today's Progress:** Did more of the React tutorial and navbar project. Made a start on my first own React project - revamp of biosecurity tips, now named: ATTBA for Australian Travel & Trade Biosecurity Assistant 
+  
+**Thoughts:** A better day. I am feeling more confident with React, I think I will be building on it while I still feel pretty clueless about it, but I will learn. 
+
+**Link to work:** https://github.com/michagodfrey/attba
+**Tweet:** https://twitter.com/Michael07865192/status/1486660007152128001
+  
+  
+  
+
+
