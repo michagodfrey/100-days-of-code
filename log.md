@@ -463,6 +463,12 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 **Tweet:** https://twitter.com/Michael07865192/status/1486660007152128001
   
   
-  
+### Day 47: January 28, 2022
 
+**Today's Progress:** Continued in tutorial, looked at useReducer and useContext and how these can help in bigger projects.
+  
+**Thoughts:** A am gathering the pieces that I'll need for my own React project. I should be able to create a good demo. 
+
+**Link to work:** Web/react/tutorial-advanced
+**Tweet:** https://twitter.com/Michael07865192/status/1487347381004042246
 
