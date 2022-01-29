@@ -472,3 +472,12 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 **Link to work:** Web/react/tutorial-advanced
 **Tweet:** https://twitter.com/Michael07865192/status/1487347381004042246
 
+
+### Day 48: January 29, 2022
+
+**Today's Progress:** More deep in the React concepts by doing the projects.
+  
+**Thoughts:**  Learning some handing things that I will be adapting to my biosecurity showcase. 
+
+**Link to work:** https://codesandbox.io/s/12-sidebar-modal-7m4gw
+**Tweet:** https://twitter.com/Michael07865192/status/1487349333507047428
