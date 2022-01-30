@@ -481,3 +481,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** https://codesandbox.io/s/12-sidebar-modal-7m4gw
 **Tweet:** https://twitter.com/Michael07865192/status/1487349333507047428
+  
+  
+### Day 49: January 30, 2022
+
+**Today's Progress:** Finished tutorial. 
+  
+**Thoughts:**  I feel more familiar with React, keen to try what I've learned. 
+
+**Link to work:** https://www.youtube.com/watch?v=4UZrsTqkcW4
+**Tweet:** https://twitter.com/Michael07865192/status/1487743009416351746
