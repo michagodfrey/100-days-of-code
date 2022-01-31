@@ -491,3 +491,14 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** https://www.youtube.com/watch?v=4UZrsTqkcW4
 **Tweet:** https://twitter.com/Michael07865192/status/1487743009416351746
+  
+  
+### Day 50: January 31, 2022
+
+**Today's Progress:** Spent it working out why Routes from react router wasn't working. I ended up installing version 5 (current V is 6) and used Switch and the links seem to be working. 
+  
+**Thoughts:**  Just my luck but I learned how to install earlier versions of sofware packages, and it was good practice resolving a problem. 
+
+**Link to work:** Web/biosecurity/travel-trade/attr
+**Tweet:** https://twitter.com/Michael07865192/status/1488106915225694215
+
