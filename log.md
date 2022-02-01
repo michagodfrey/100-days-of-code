@@ -502,3 +502,12 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 **Link to work:** Web/biosecurity/travel-trade/attr
 **Tweet:** https://twitter.com/Michael07865192/status/1488106915225694215
 
+
+### Day 51: January 31, 2022
+
+**Today's Progress:** Did some work on the ATTBA project.
+  
+**Thoughts:** Feels weird working on my own thing after being in tutorial land for over a week. That means I was away from it too long. 
+
+**Link to work:** https://github.com/michagodfrey/attba
+**Tweet:** https://twitter.com/Michael07865192/status/1488457940634042368
