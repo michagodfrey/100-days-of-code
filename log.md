@@ -503,7 +503,7 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 **Tweet:** https://twitter.com/Michael07865192/status/1488106915225694215
 
 
-### Day 51: January 31, 2022
+### Day 51: February 01, 2022
 
 **Today's Progress:** Did some work on the ATTBA project.
   
@@ -511,3 +511,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** https://github.com/michagodfrey/attba
 **Tweet:** https://twitter.com/Michael07865192/status/1488457940634042368
+
+  
+### Day 52: February 02, 2022
+
+**Today's Progress:** I was building up the ATTBA project, chose a color scheme, green and gold, built an accordian in the about section. 
+  
+**Thoughts:** I liked coding today. I wish I could do it faster. Also I find choosing color themes hard, and layouts. Maybe backend would be better for me. 
+
+**Link to work:** https://github.com/michagodfrey/attba
+**Tweet:** https://twitter.com/Michael07865192/status/1488819268535734275
