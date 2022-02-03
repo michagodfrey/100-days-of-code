@@ -521,3 +521,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** https://github.com/michagodfrey/attba
 **Tweet:** https://twitter.com/Michael07865192/status/1488819268535734275
+  
+  
+### Day 53: February 03, 2022
+
+**Today's Progress:** Did more work on the react project. 
+  
+**Thoughts:** I need to stay focused and have a clear goal, or I run the risk of derailing this project. Also, I need to be uploading more stuff soon. 
+
+**Link to work:** https://github.com/michagodfrey/attba
+**Tweet:** https://twitter.com/Michael07865192/status/1489194685876748294
