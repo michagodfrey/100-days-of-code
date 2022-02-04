@@ -531,3 +531,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** https://github.com/michagodfrey/attba
 **Tweet:** https://twitter.com/Michael07865192/status/1489194685876748294
+
+  
+### Day 54: February 04, 2022
+
+**Today's Progress:** Did more work on the react project. Foound a cool interactive svg of Australian states which will be a nice visual. 
+  
+**Thoughts:** I like coding.  
+
+**Link to work:** https://github.com/michagodfrey/attba
+**Tweet:** https://twitter.com/Michael07865192/status/1489550455327789060
