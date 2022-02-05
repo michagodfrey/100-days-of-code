@@ -541,3 +541,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** https://github.com/michagodfrey/attba
 **Tweet:** https://twitter.com/Michael07865192/status/1489550455327789060
+  
+  
+### Day 55: February 04, 2022
+
+**Today's Progress:**  Worked on displaying modals, progress was slowed because I didn't implement some necessary code and only discovered this in the evening. Still, I managed to implement a modal pop up for the each state. 
+  
+**Thoughts:**  Sometimes I feel like the universe throttles my progress.
+
+**Link to work:** https://github.com/michagodfrey/attba
+**Tweet:** https://twitter.com/Michael07865192/status/1489909991121117184
