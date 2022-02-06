@@ -543,7 +543,7 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 **Tweet:** https://twitter.com/Michael07865192/status/1489550455327789060
   
   
-### Day 55: February 04, 2022
+### Day 55: February 05, 2022
 
 **Today's Progress:**  Worked on displaying modals, progress was slowed because I didn't implement some necessary code and only discovered this in the evening. Still, I managed to implement a modal pop up for the each state. 
   
@@ -551,3 +551,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** https://github.com/michagodfrey/attba
 **Tweet:** https://twitter.com/Michael07865192/status/1489909991121117184
+
+  
+### Day 56: February 06, 2022
+
+**Today's Progress:**  I attempted to create the pests page with components displayed and links to a page with each pest. I got the starting data in but spent most of the time barking up the wrong tree, following the cocktail tutorial and doing it for an API rather than data file. Figuered out at the end how to display the pests as a list. 
+  
+**Thoughts:**  Today was good React immersion even if I was bumbling aroud. 
+
+**Link to work:** https://github.com/michagodfrey/attba
+**Tweet:** https://twitter.com/Michael07865192/status/1490278444281712642
