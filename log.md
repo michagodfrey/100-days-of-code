@@ -560,4 +560,4 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 **Thoughts:**  Today was good React immersion even if I was bumbling aroud. 
 
 **Link to work:** https://github.com/michagodfrey/attba
-**Tweet:** https://twitter.com/Michael07865192/status/1490278444281712642
+**Tweet:** https://twitter.com/Michael07865192/status/1490279449350180866
