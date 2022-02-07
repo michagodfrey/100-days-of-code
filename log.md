@@ -561,3 +561,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** https://github.com/michagodfrey/attba
 **Tweet:** https://twitter.com/Michael07865192/status/1490279449350180866
+
+  
+### Day 57: February 07, 2022
+
+**Today's Progress:**  Got the individual pests rendered as their own pages, but with noobish code that I will need to fix at some point. 
+  
+**Thoughts:**  Today I made a break through albeit with noobish code and after that I lost track of time while coding. I think I found something I like and want to do more of. 
+
+**Link to work:** https://github.com/michagodfrey/attba
+**Tweet:** https://twitter.com/Michael07865192/status/1490651107831410688
