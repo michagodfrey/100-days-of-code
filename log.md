@@ -571,3 +571,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** https://github.com/michagodfrey/attba
 **Tweet:** https://twitter.com/Michael07865192/status/1490651107831410688
+  
+  
+### Day 58: February 08, 2022
+
+**Today's Progress:** Did more work on the react project, but failed to do anything. 
+  
+**Thoughts:** I don't havea a good enough understadning of props. I missed a basic fundamental.  
+
+**Link to work:** https://github.com/michagodfrey/attba 
+**Tweet:** https://twitter.com/Michael07865192/status/1491001634943811584
