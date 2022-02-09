@@ -581,3 +581,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** https://github.com/michagodfrey/attba 
 **Tweet:** https://twitter.com/Michael07865192/status/1491001634943811584
+
+  
+### Day 59: February 09, 2022
+
+**Today's Progress:** Tried, and failed to render the state data. Worked on a bit of easy stuff for the challenge and to make progress.  
+  
+**Thoughts:** This is getting disheartening, 2 bad days in a row. 
+
+**Link to work:** https://github.com/michagodfrey/attba 
+**Tweet:** https://twitter.com/Michael07865192/status/1491362959754665988
