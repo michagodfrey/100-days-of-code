@@ -591,3 +591,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** https://github.com/michagodfrey/attba 
 **Tweet:** https://twitter.com/Michael07865192/status/1491362959754665988
+
+  
+### Day 60: February 10, 2022
+
+**Today's Progress:** I got the props rendered at last. I'm such a chump that it took as long as it did. 
+  
+**Thoughts:** I am happy with how my React project is shaping up. 
+
+**Link to work:** https://github.com/michagodfrey/attba 
+**Tweet:** https://twitter.com/Michael07865192/status/1491724870081597440
