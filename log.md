@@ -621,3 +621,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:**  https://codesandbox.io/s/css-practice-8bjb2?file=/styles.css
 **Tweet:** https://twitter.com/Michael07865192/status/1492405375772938240
+
+  
+### Day 63: February 13, 2022
+
+**Today's Progress:** Did some work on my React project. The basic page set up should be set now, just need to add come functionality and styles. 
+  
+**Thoughts:** I don't want this project to drag. Will try to get something up soon. 
+
+**Link to work:** https://github.com/michagodfrey/attba 
+**Tweet:** https://twitter.com/Michael07865192/status/1492810417621463041
