@@ -601,3 +601,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** https://github.com/michagodfrey/attba 
 **Tweet:** https://twitter.com/Michael07865192/status/1491724870081597440
+
+  
+### Day 61: February 11, 2022
+
+**Today's Progress:** I worked on a simple, but not easy, CSS challenge. Didn't quite get there. 
+  
+**Thoughts:** The exercise could easily be done with an extra div or grid, but just with flex is tricky.  
+
+**Link to work:**  https://twitter.com/Michael07865192/status/1492075519671603200
+**Tweet:** https://t.co/G3xR7Ess2J challange idea: https://codier.io/challenge/rJyoBgWCr
