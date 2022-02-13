@@ -609,5 +609,15 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
   
 **Thoughts:** The exercise could easily be done with an extra div or grid, but just with flex is tricky.  
 
-**Link to work:**  https://twitter.com/Michael07865192/status/1492075519671603200
-**Tweet:** https://t.co/G3xR7Ess2J challange idea: https://codier.io/challenge/rJyoBgWCr
+**Link to work:** https://t.co/G3xR7Ess2J challange idea: https://codier.io/challenge/rJyoBgWCr
+**Tweet:** https://twitter.com/Michael07865192/status/1492075519671603200 
+
+  
+### Day 62: February 12, 2022
+
+**Today's Progress:** Finished off the challenge and made it responsive to boot. 
+  
+**Thoughts:**  I learned a bit about setting fixed height and flex wrap today. By setting up some fixed dimensions, you can controll the layout with less elements. 
+
+**Link to work:**  https://codesandbox.io/s/css-practice-8bjb2?file=/styles.css
+**Tweet:** https://twitter.com/Michael07865192/status/1492405375772938240
