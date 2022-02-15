@@ -641,3 +641,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** https://github.com/michagodfrey/attba 
 **Tweet:** https://twitter.com/Michael07865192/status/1493539516665438209
+
+  
+### Day 65: February 15, 2022
+
+**Today's Progress:** I continued trying to make the navbar how I wante, I eventually got the functional, but the I can't use CSS to make it display how I want.  
+  
+**Thoughts:** I am going around in circles here and precious practice time is being squandered on fiddling with stupid stuff. Chaning direction as of tomorrow.  
+
+**Link to work:** https://github.com/michagodfrey/attba 
+**Tweet:** https://twitter.com/Michael07865192/status/1493542075769692162
