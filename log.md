@@ -631,3 +631,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** https://github.com/michagodfrey/attba 
 **Tweet:** https://twitter.com/Michael07865192/status/1492810417621463041
+
+  
+### Day 64: February 14, 2022
+
+**Today's Progress:** I tried to make the navbar work as I wanted following the projects tutorial. I failed. 
+  
+**Thoughts:** This was depressing and embarrassing. 
+
+**Link to work:** https://github.com/michagodfrey/attba 
+**Tweet:** https://twitter.com/Michael07865192/status/1493539516665438209
