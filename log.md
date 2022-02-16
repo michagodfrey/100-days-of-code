@@ -651,3 +651,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** https://github.com/michagodfrey/attba 
 **Tweet:** https://twitter.com/Michael07865192/status/1493542075769692162
+
+  
+### Day 66: February 16, 2022
+
+**Today's Progress:** I forked 30 Days of JavaScript by Asabeneh. Practiced string manipulation. 
+  
+**Thoughts:** The fact that I could't do the harder questions on day 2 of JavaScript indicates that I am not yet sufficiently familiar with it. 
+
+**Link to work:** https://github.com/michagodfrey/30-Days-Of-JavaScript/tree/master/02_Day_Data_types
+**Tweet:** https://twitter.com/Michael07865192/status/1493911828686008320
