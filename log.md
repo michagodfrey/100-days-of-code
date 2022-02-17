@@ -661,3 +661,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** https://github.com/michagodfrey/30-Days-Of-JavaScript/tree/master/02_Day_Data_types
 **Tweet:** https://twitter.com/Michael07865192/status/1493911828686008320
+
+  
+### Day 67: February 17, 2022
+
+**Today's Progress:** I practiced dates, booleans, ternary operators and loops in JavaScript
+  
+**Thoughts:** Good practice, some concepts are more intuitive now. 
+
+**Link to work:** https://github.com/michagodfrey/30-Days-Of-JavaScript
+**Tweet:** https://twitter.com/Michael07865192/status/1494262076058988544
