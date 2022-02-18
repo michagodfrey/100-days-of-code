@@ -671,3 +671,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** https://github.com/michagodfrey/30-Days-Of-JavaScript
 **Tweet:** https://twitter.com/Michael07865192/status/1494262076058988544
+
+ 
+### Day 68: February 18, 2022
+
+**Today's Progress:** Practiced loops, only just got an hour in today. 
+  
+**Thoughts:** Was busy with work and other stuff today, will try to make up for it tomorrow. 
+
+**Link to work:** https://github.com/michagodfrey/30-Days-Of-JavaScript/tree/master/06_Day_Loops/06_day_starter/scripts
+**Tweet:** https://twitter.com/Michael07865192/status/1494622054330499073
