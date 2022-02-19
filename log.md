@@ -681,3 +681,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** https://github.com/michagodfrey/30-Days-Of-JavaScript/tree/master/06_Day_Loops/06_day_starter/scripts
 **Tweet:** https://twitter.com/Michael07865192/status/1494622054330499073
+
+  
+### Day 69: February 19, 2022
+
+**Today's Progress:** Added photos to the Fiji Page into a new gallery on a separate page and added another page for a separate gallery. 
+  
+**Thoughts:** I noticed that my back buttons href="/" go all the way back to my portfolio page! Oops, this is the second time I've encountered an issue like this and it shows that GitHub pages are linked and I need to be careful.  
+
+**Link to work:** https://michagodfrey.github.io/fiji/
+**Tweet:** https://twitter.com/Michael07865192/status/1494985274186936321
