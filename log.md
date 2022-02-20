@@ -691,3 +691,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** https://michagodfrey.github.io/fiji/
 **Tweet:** https://twitter.com/Michael07865192/status/1494985274186936321
+  
+  
+### Day 70: February 20, 2022
+
+**Today's Progress:** In the Fiji page, I fixed the back links, added 2 more photo galleries, added a overlay slide to gallery links, renamed index.html to fiji.html. I also tried to found out why the svgs were not displaying in safari browers but I am still stuck. I can make svgs display on safari in other projects, but not my profile. 
+  
+**Thoughts:** It's nice to work on and improve stuff I've built. 
+
+**Link to work:** https://michagodfrey.github.io/fiji/ https://michagodfrey.github.io/
+**Tweet:** https://twitter.com/Michael07865192/status/1495369937808130054
