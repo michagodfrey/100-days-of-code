@@ -701,3 +701,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** https://michagodfrey.github.io/fiji/ https://michagodfrey.github.io/
 **Tweet:** https://twitter.com/Michael07865192/status/1495369937808130054
+
+  
+### Day 71: February 21, 2022
+
+**Today's Progress:** Basic maintenance on portfolio and Fiji. Still can't resolve the svg issue but I found the svgs only fail to display when embedded in the footer. Also practiced JavaScript loops and functions. 
+  
+**Thoughts:** Not much to think about today, but this JS practice is not a walk in the park although some on the presumably harder ones often come easier that presumably easy ones. This shows gaps about methods I think. 
+
+**Link to work:** https://github.com/michagodfrey/30-Days-Of-JavaScript
+**Tweet:** https://twitter.com/Michael07865192/status/1495716179599851524
