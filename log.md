@@ -720,11 +720,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 **Thoughts:** Not much to think about today, but this JS practice is not a walk in the park although some on the presumably harder ones often come easier that presumably easy ones. This shows gaps about methods I think. 
 
 **Link to work:** https://github.com/michagodfrey/30-Days-Of-JavaScript
-**Tweet:** ### Day 71: February 21, 2022
 
-**Today's Progress:** Basic maintenance on portfolio and Fiji. Still can't resolve the svg issue but I found the svgs only fail to display when embedded in the footer. Also practiced JavaScript loops and functions. 
   
-**Thoughts:** Most of the work was on the finicky stuff, just annoying. Also vertical centering is still a main but I managed it here in the end. 
+**Tweet:** ### Day 73: February 23, 2022
 
-**Link to work:** https://www.frontendmentor.io/solutions/testimonials-grid-T_Nxd_c5z
-**Tweet:** https://twitter.com/Michael07865192/status/1496094447280738307
+**Today's Progress:** Tried to learn about objects in a set short time frame of 60 mins. Didn't learn much except I don't know how to access nested objects. 
+  
+**Thoughts:** It would be nice if 30 days of JavaScript's examples reflected the questions in Day 8 at least. 
+
+**Link to work:** https://github.com/michagodfrey/30-Days-Of-JavaScript/blob/master/08_Day_Objects/08_day_objects.md
+**Tweet:** https://twitter.com/Michael07865192/status/1496433317729959937
