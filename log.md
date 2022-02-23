@@ -719,10 +719,11 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
   
 **Thoughts:** Not much to think about today, but this JS practice is not a walk in the park although some on the presumably harder ones often come easier that presumably easy ones. This shows gaps about methods I think. 
 
-**Link to work:** https://github.com/michagodfrey/30-Days-Of-JavaScript
-
+**Link to work:** https://github.com/michagodfrey/30-Days-Of-JavaScript 
+**Tweet:** https://twitter.com/Michael07865192/status/1496094447280738307
   
-**Tweet:** ### Day 73: February 23, 2022
+  
+### Day 73: February 23, 2022
 
 **Today's Progress:** Tried to learn about objects in a set short time frame of 60 mins. Didn't learn much except I don't know how to access nested objects. 
   
