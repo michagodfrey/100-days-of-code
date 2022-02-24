@@ -731,3 +731,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** https://github.com/michagodfrey/30-Days-Of-JavaScript/blob/master/08_Day_Objects/08_day_objects.md
 **Tweet:** https://twitter.com/Michael07865192/status/1496433317729959937
+  
+  
+### Day 74: February 24, 2022
+
+**Today's Progress:** Continued object practice, managed to finsih level 2 in 30 days JS Day 8. 
+  
+**Thoughts:** Still had a bit of bad luck I feel but practiced some important stuff that will need to become second nature. . 
+
+**Link to work:** https://github.com/michagodfrey/30-Days-Of-JavaScript/blob/master/08_Day_Objects/08_day_objects.md
+**Tweet:** https://twitter.com/Michael07865192/status/1496806060434522114
