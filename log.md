@@ -741,3 +741,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** https://github.com/michagodfrey/30-Days-Of-JavaScript/blob/master/08_Day_Objects/08_day_objects.md
 **Tweet:** https://twitter.com/Michael07865192/status/1496806060434522114
+
+  
+### Day 75: February 25, 2022
+
+**Today's Progress:** I practiced higher order functions forEach, map, filter and reduce in 30 Days of JS Day 9. 
+  
+**Thoughts:** It was good practice today, it's taken some willpower to continue the challenge this week but I've done it. 
+
+**Link to work:** https://github.com/michagodfrey/30-Days-Of-JavaScript/tree/master/09_Day_Higher_order_functions
+**Tweet:** https://twitter.com/Michael07865192/status/1497169128645607426
