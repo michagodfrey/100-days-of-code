@@ -751,3 +751,16 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** https://github.com/michagodfrey/30-Days-Of-JavaScript/tree/master/09_Day_Higher_order_functions
 **Tweet:** https://twitter.com/Michael07865192/status/1497169128645607426
+
+  
+### Day 76: February 26, 2022
+
+**Today's Progress:** I practiced sets and maps in 30 Days of JS Day 10. 
+  
+**Thoughts:** Not much, day late doing this post unfortunately. 
+
+**Link to work:** https://github.com/michagodfrey/30-Days-Of-JavaScript/blob/master/10_Day_Sets_and_Maps/10_day_Sets_and_Maps.md#union-of-sets
+**Tweet:** https://twitter.com/Michael07865192/status/1497884588257198085
+  
+  
+  
