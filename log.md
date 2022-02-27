@@ -763,4 +763,11 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 **Tweet:** https://twitter.com/Michael07865192/status/1497884588257198085
   
   
+### Day 77: February 27, 2022
+
+**Today's Progress:** I tried to make the slide down fluid with pure CSS, didn't get it how I wanted so I'll take today as a lesson in that. 
   
+**Thoughts:** Frustrating that I didn't fix it. Can't say I don't try. 
+
+**Link to work:** Home/Web/showcase
+**Tweet:** https://twitter.com/Michael07865192/status/1497890159865774082
