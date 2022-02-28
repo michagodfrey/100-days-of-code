@@ -771,3 +771,15 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** Home/Web/showcase
 **Tweet:** https://twitter.com/Michael07865192/status/1497890159865774082
+
+  
+### Day 78: February 28, 2022
+
+**Today's Progress:** Studied and tried jQuery for the first time as a solution to the slider. Also I practiced day 11 in 30 days of Javascript
+  
+**Thoughts:** This is all well and good, but for the home stretch I'm going to be focuing on results, that is projects for my showcase. 
+
+**Link to work:** https://github.com/michagodfrey/30-Days-Of-JavaScript/blob/master/11_Day_Destructuring_and_spreading/11_day_starter/scripts/main.js
+**Tweet:** https://twitter.com/Michael07865192/status/1498259509479108609
+
+  
