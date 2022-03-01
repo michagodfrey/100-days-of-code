@@ -783,3 +783,11 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 **Tweet:** https://twitter.com/Michael07865192/status/1498259509479108609
 
   
+### Day 79: March 1, 2022
+
+**Today's Progress:** Started a new frontend mentor challenge, sunnyside. Got the mobile view done. 
+  
+**Thoughts:** It was good practice with backgroud images. 
+
+**Link to work:** Home/Web/frontend-mentor-sunnyside
+**Tweet:** https://twitter.com/Michael07865192/status/1498613883745218568
