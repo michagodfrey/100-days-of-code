@@ -791,3 +791,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** Home/Web/frontend-mentor-sunnyside
 **Tweet:** https://twitter.com/Michael07865192/status/1498613883745218568
+
+  
+### Day 80: March 2, 2022
+
+**Today's Progress:** Did the desktop layout and finer styling. Now I just need to add the JavaScript. 
+  
+**Thoughts:** Today was a great day. I was productive. Too bad I didn't quite finish the challenge, although I could have. The webpage is looking good, I may as well polish it and upload to FE Mentor.
+
+**Link to work:** Home/Web/frontend-mentor-sunnyside
+**Tweet:** https://twitter.com/Michael07865192/status/1498979211117490178
