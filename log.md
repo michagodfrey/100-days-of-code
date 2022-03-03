@@ -801,3 +801,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** Home/Web/frontend-mentor-sunnyside
 **Tweet:** https://twitter.com/Michael07865192/status/1498979211117490178
+
+  
+### Day 81: March 3, 2022
+
+**Today's Progress:** Finished the Sunnyside landing page. Put some work into the README.md too so the project is well presented. The live site is looking very close to the design. I also debugged a Twitter friends CSS issue with sticky position. 
+  
+**Thoughts:** This was a win today, I spent an embarrasingly long time trying to figure out the basic javascript for the dropdown but got it in the end.
+
+**Link to work:** https://www.frontendmentor.io/solutions/sunnyside-landing-page-using-html-vanilla-css-and-javascript-CgHsrsnzG
+**Tweet:** https://twitter.com/Michael07865192/status/1499317212683055107
