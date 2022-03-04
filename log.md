@@ -811,3 +811,14 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** https://www.frontendmentor.io/solutions/sunnyside-landing-page-using-html-vanilla-css-and-javascript-CgHsrsnzG
 **Tweet:** https://twitter.com/Michael07865192/status/1499317212683055107
+  
+  
+### Day 82: March 4, 2022
+
+**Today's Progress:** A course on Node.js basics came out Treehouse, which I still have a subscription to. I did this course and worked with a dictionary API. 
+  
+**Thoughts:** There's a few courses on Treehouse that I think I will do, maybe revist the React projects. 
+
+**Link to work:** Home/Treehouse/practice/nodeJS
+**Tweet:** https://twitter.com/Michael07865192/status/1499674209869758464
+  
