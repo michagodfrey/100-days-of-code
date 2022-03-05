@@ -822,3 +822,12 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 **Link to work:** Home/Treehouse/practice/nodeJS
 **Tweet:** https://twitter.com/Michael07865192/status/1499674209869758464
   
+
+### Day 83: March 5, 2022
+
+**Today's Progress:**  Studied HTTP requests with get and post on Treehouse. Actual coding was maintenance on my portfolio showcase. 
+  
+**Thoughts:** I think there are many ways to get data from APIs, will continue to explore this. 
+
+**Link to work:** https://michagodfrey.github.io/
+**Tweet:** https://twitter.com/Michael07865192/status/1500062275272851459
