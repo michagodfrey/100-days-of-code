@@ -831,3 +831,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** https://michagodfrey.github.io/
 **Tweet:** https://twitter.com/Michael07865192/status/1500062275272851459
+
+  
+### Day 84: March 6, 2022
+
+**Today's Progress:**  I made a simple junior frontend mentor API challenge using fetch. 
+  
+**Thoughts:** Every time the button is clicked, the page is reloading. So unfortunately this is not the best solution I think. 
+
+**Link to work:** https://www.frontendmentor.io/solutions/advice-generator-using-an-api-and-fetch-F_lg6ly0N
+**Tweet:** https://twitter.com/Michael07865192/status/1500431718528188423
