@@ -841,3 +841,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** https://www.frontendmentor.io/solutions/advice-generator-using-an-api-and-fetch-F_lg6ly0N
 **Tweet:** https://twitter.com/Michael07865192/status/1500431718528188423
+
+  
+### Day 85: March 7, 2022
+
+**Today's Progress:**  I assessed the biosecurity site, ATTBA (still need a new name), and planned it better, then refacted the css code into scss folders. I also stared big tutorial on Node.js and express
+  
+**Thoughts:** The reason I ran out of steam was the final design and even object of the application was not clear in my mind. No wind is favourable if one does know know where one is going. 
+
+**Link to work:** https://github.com/michagodfrey/attba
+**Tweet:** https://twitter.com/Michael07865192/status/1500786362567782408
