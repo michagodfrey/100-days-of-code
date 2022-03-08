@@ -851,3 +851,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 
 **Link to work:** https://github.com/michagodfrey/attba
 **Tweet:** https://twitter.com/Michael07865192/status/1500786362567782408
+
+  
+### Day 86: March 8, 2022
+
+**Today's Progress:**  More work on Quarantine Query, the new name of the site. Changed it's layout around and changed the navbar. 
+  
+**Thoughts:** It feels like it took me a long time to do what I did. Still, I'm liking the modularity that sass allows. 
+  
+**Link to work:** https://github.com/michagodfrey/attba
+**Tweet:** https://twitter.com/Michael07865192/status/1501151233482330113
