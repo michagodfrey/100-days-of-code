@@ -861,3 +861,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
   
 **Link to work:** https://github.com/michagodfrey/attba
 **Tweet:** https://twitter.com/Michael07865192/status/1501151233482330113
+  
+  
+### Day 87: March 9, 2022
+
+**Today's Progress:**  Worked on the pests page and pest component. Progress was slow, had bad luck and uncoperative elements.  
+  
+**Thoughts:** Bit frustated with today. I'm putting the effort in, but always getting setbacks.  
+  
+**Link to work:** https://github.com/michagodfrey/attba
+**Tweet:** https://twitter.com/Michael07865192/status/1501519129693782017
