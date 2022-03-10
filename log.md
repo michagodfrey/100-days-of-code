@@ -871,3 +871,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
   
 **Link to work:** https://github.com/michagodfrey/attba
 **Tweet:** https://twitter.com/Michael07865192/status/1501519129693782017
+  
+  
+### Day 88: March 10, 2022
+
+**Today's Progress:**  712 insertions, 493 deletions according to GitHub. 
+  
+**Thoughts:** The project is looking better and I'm feeling a bit better about it. 
+  
+**Link to work:** https://github.com/michagodfrey/attba
+**Tweet:** https://twitter.com/Michael07865192/status/1501885042125324294
