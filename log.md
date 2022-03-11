@@ -881,3 +881,14 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
   
 **Link to work:** https://github.com/michagodfrey/attba
 **Tweet:** https://twitter.com/Michael07865192/status/1501885042125324294
+
+  
+### Day 89: March 11, 2022
+
+**Today's Progress:**  Made decent progress today considering I had other chores to attend to. Last thing left to do is the search function. Just a basic prototype of what it will one day be. This will show the concept. 
+  
+**Thoughts:** I'm finally liking the thing I'm making. 
+  
+**Link to work:** https://github.com/michagodfrey/attba
+**Tweet:** https://twitter.com/Michael07865192/status/1502233242535329796
+  
