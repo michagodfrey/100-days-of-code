@@ -892,3 +892,12 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 **Link to work:** https://github.com/michagodfrey/attba
 **Tweet:** https://twitter.com/Michael07865192/status/1502233242535329796
   
+  
+### Day 90: March 12, 2022
+
+**Today's Progress:**  Worked on the project. Wasn't really focused and didn't finish it as I hoped. 
+  
+**Thoughts:** The weather was nice today, Saturday. Wasn't focussed. 
+  
+**Link to work:** https://github.com/michagodfrey/attba
+**Tweet:** https://twitter.com/Michael07865192/status/1502614489027739648
