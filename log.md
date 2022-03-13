@@ -901,3 +901,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
   
 **Link to work:** https://github.com/michagodfrey/attba
 **Tweet:** https://twitter.com/Michael07865192/status/1502614489027739648
+
+  
+### Day 91: March 13, 2022
+
+**Today's Progress:**  Got the react project good enough that I'm willing to put it on my showcase. 
+  
+**Thoughts:** I used the repositiory name for the url, but since the home page was set to / in my app, it wasn't working. I tried to fix it by changing it to /home, but now it doesn't seem to work. All that worl and when it's ready I can't even show it on Twitter. This has not been a good week. 
+  
+**Link to work:** https://github.com/michagodfrey/attba
+**Tweet:** https://twitter.com/Michael07865192/status/1502969457433804806
