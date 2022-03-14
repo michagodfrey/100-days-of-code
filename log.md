@@ -911,3 +911,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
   
 **Link to work:** https://github.com/michagodfrey/attba
 **Tweet:** https://twitter.com/Michael07865192/status/1502969457433804806
+
+  
+### Day 92: March 14, 2022
+
+**Today's Progress:**  I worked on a new FE mentor challenge. I'm having some troubles with rendering the images but I'm actully running into some of React's limitations and understanding better how it works as a result. 
+  
+**Thoughts:** Felt more at one with React today. 
+  
+**Link to work:** https://github.com/michagodfrey/job-listings
+**Tweet:** https://twitter.com/Michael07865192/status/1503315554505232387
