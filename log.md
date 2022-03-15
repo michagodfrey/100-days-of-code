@@ -921,3 +921,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
   
 **Link to work:** https://github.com/michagodfrey/job-listings
 **Tweet:** https://twitter.com/Michael07865192/status/1503315554505232387
+
+  
+### Day 93: March 15, 2022
+
+**Today's Progress:**  I coded away on the filter job listings. Didn't get it done but would postpone submission until tomorrow since I want to have this really polished. 
+  
+**Thoughts:** This practice was perfect, right at the edge of my abilities, pushing me to learn new things. 
+  
+**Link to work:** https://github.com/michagodfrey/job-listings
+**Tweet:** https://twitter.com/Michael07865192/status/1503698000165892096
