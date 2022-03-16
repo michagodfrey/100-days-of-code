@@ -931,3 +931,14 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
   
 **Link to work:** https://github.com/michagodfrey/job-listings
 **Tweet:** https://twitter.com/Michael07865192/status/1503698000165892096
+
+  
+### Day 94: March 16, 2022
+
+**Today's Progress:** I worked more on the FE project, the final filtering turned out to be harder than I thought. Logic flaws were exposed when I was working on the last, hardest part. 
+  
+**Thoughts:** Should have tackled the hard stuff earlier in the study session, may have finished the challenge today. 
+  
+**Link to work:** https://github.com/michagodfrey/job-listings
+**Tweet:** https://twitter.com/Michael07865192/status/1504077867021660165
+  
