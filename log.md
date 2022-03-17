@@ -942,3 +942,12 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 **Link to work:** https://github.com/michagodfrey/job-listings
 **Tweet:** https://twitter.com/Michael07865192/status/1504077867021660165
   
+  
+### Day 95: March 16, 2022
+
+**Today's Progress:**  After blood sweat and tears, I managed to create a function that would filter the job list as intended. But it only works in the terminal, not when I transfer it to React. 
+  
+**Thoughts:** It didn't feel fair that it didn't work. It's not because I didn't put the effort in time in. 
+  
+**Link to work:** https://github.com/michagodfrey/job-listings
+**Tweet:** https://twitter.com/Michael07865192/status/1504445434831716352
