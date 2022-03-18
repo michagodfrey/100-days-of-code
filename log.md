@@ -943,7 +943,7 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 **Tweet:** https://twitter.com/Michael07865192/status/1504077867021660165
   
   
-### Day 95: March 16, 2022
+### Day 95: March 17, 2022
 
 **Today's Progress:**  After blood sweat and tears, I managed to create a function that would filter the job list as intended. But it only works in the terminal, not when I transfer it to React. 
   
@@ -951,3 +951,14 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
   
 **Link to work:** https://github.com/michagodfrey/job-listings
 **Tweet:** https://twitter.com/Michael07865192/status/1504445434831716352
+  
+ 
+### Day 96: March 18, 2022
+
+**Today's Progress:**  Gave one last attempt at the filter function in case I was doing something dumb, I got working a little, but imperfectly. I then started working on 
+  
+**Thoughts:** I am humbled to get my arse kicked by a filter function.This has exposed weakness in my knowledge, I really need to focus on the problem solving aspect, there must be crucial things I don't know about how to go about it. 
+  
+**Link to work:** Home/Web/nodejs/markdown-blog
+**Tweet:** https://twitter.com/Michael07865192/status/1504789975065587715
+  
