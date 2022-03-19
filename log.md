@@ -962,3 +962,21 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 **Link to work:** Home/Web/nodejs/markdown-blog
 **Tweet:** https://twitter.com/Michael07865192/status/1504789975065587715
   
+
+### Day 96: March 18, 2022
+
+**Today's Progress:**  Gave one last attempt at the filter function in case I was doing something dumb, I got working a little, but imperfectly. I then started working on a crud app following a tutorial. 
+  
+**Thoughts:** I am humbled to get my arse kicked by a filter function.This has exposed weakness in my knowledge, I really need to focus on the problem solving aspect, there must be crucial things I don't know about how to go about it. 
+  
+**Link to work:** Home/Web/nodejs/markdown-blog
+  
+  
+**Tweet:** ### Day 97: March 19, 2022
+
+**Today's Progress:** Didn't make much. Worked on my profile a bit. Tried to implement the function, failed. Tried to build the crud app but the server wasn't working and I couldn't get anywhere. 
+  
+**Thoughts:** Today was a failure. 
+  
+**Link to work:** Home/Web/nodejs/markdown-blog and portfolio
+**Tweet:** https://twitter.com/Michael07865192/status/1504789975065587715
