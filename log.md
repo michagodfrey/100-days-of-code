@@ -980,3 +980,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
   
 **Link to work:** Home/Web/nodejs/markdown-blog and portfolio
 **Tweet:** https://twitter.com/Michael07865192/status/1504789975065587715
+  
+  
+**Tweet:** ### Day 98: March 20, 2022
+
+**Today's Progress:** I added 2 new pages to the Fiji site as well as fixing some styles 
+  
+**Thoughts:** Even though I didn't make the Fiji site that long ago, I can see how it could be improved quite a lot. 
+  
+**Link to work:** https://michagodfrey.github.io/fiji/index.html
+**Tweet:** https://twitter.com/Michael07865192/status/1505519944200749057
