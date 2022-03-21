@@ -990,3 +990,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
   
 **Link to work:** https://michagodfrey.github.io/fiji/index.html
 **Tweet:** https://twitter.com/Michael07865192/status/1505519944200749057
+
+  
+**Tweet:** ### Day 99: March 20, 2022
+
+**Today's Progress:** A triumph as I finally got the dreaded filter function to work in React. Did so and submitted the challenge.  
+  
+**Thoughts:** It's one thing to dive in and figure it out as you go may work sometimes, but increasingly I'm finding I am hampered by my unknown unknowns. The problem I resolved today happened after I just read some documentation on hooks. During this challenge I have been focussing on coding output and being able to show something at the end of a few hours of this. But aiming to do that every day has meant I have neglected just sitting down and studying how to implement some of these things. The more I know about the code I'm writing in, the more easier I'll be able to fix problems as they come up. 
+  
+**Link to work:** https://www.frontendmentor.io/solutions/jobs-listing-with-filtering-built-with-react-LMccYL0ca
+**Tweet:** https://twitter.com/Michael07865192/status/1505865857372921857
