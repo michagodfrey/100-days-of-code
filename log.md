@@ -992,7 +992,7 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
 **Tweet:** https://twitter.com/Michael07865192/status/1505519944200749057
 
   
-**Tweet:** ### Day 99: March 20, 2022
+**Tweet:** ### Day 99: March 21, 2022
 
 **Today's Progress:** A triumph as I finally got the dreaded filter function to work in React. Did so and submitted the challenge.  
   
@@ -1000,3 +1000,13 @@ Tweet: https://twitter.com/Michael07865192/status/1481972847606386690
   
 **Link to work:** https://www.frontendmentor.io/solutions/jobs-listing-with-filtering-built-with-react-LMccYL0ca
 **Tweet:** https://twitter.com/Michael07865192/status/1505865857372921857
+
+  
+**Tweet:** ### Day 100: March 22, 2022
+
+**Today's Progress:**  For the last day I updated my showcase with projects that I have been working on more recently. It's looking better but I think I will have to redo a lot of the Sass style naming. Also, I move the svgs but still getting the display issue with safari browser. 
+  
+**Thoughts:** I would have been better off if I had set a more defined goal. In the future, I will focus on specific, bite size things, like small challenges with JavaScript for example. 
+  
+**Link to work:** https://github.com/michagodfrey/michagodfrey.github.io
+**Tweet:** https://twitter.com/Michael07865192/status/1506234584106934272
