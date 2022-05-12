@@ -9,3 +9,13 @@
 **Link to work:** https://github.com/michagodfrey/moonlit-landscape
 
 **Tweet:** https://twitter.com/Michael07865192/status/1524257008505204736
+
+### Day 2: May 12, 2022
+
+**Today's Progress**: I started the Space Frontend Mentor challenge.
+
+**Thoughts:** I'm getting some good practice with React and React Router I think. Also how cool is it that today is R2 D2.
+
+**Link to work:** https://github.com/michagodfrey/space
+
+**Tweet:** https://twitter.com/Michael07865192/status/1524684442195079168

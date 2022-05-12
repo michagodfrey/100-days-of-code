@@ -28,4 +28,4 @@ This challenge gives me a system to practice coding. I am currently doing my sec
 
 ### *Every morning, after I make my coffee I will code for at least 1 hour. I will not use my phone or any social media site during this hour.*
 
-This will ensure the minimum commitment is met. On most days I will strive to do more than one hour and do a second session in the afternoon/evening.
+This will ensure the minimum commitment is met. However, I will strive to do more than one hour and do a second session in the afternoon/evening.
