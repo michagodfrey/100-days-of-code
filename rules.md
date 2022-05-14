@@ -6,7 +6,7 @@
 ## System
 ### *Every morning, after I make my coffee I will code for at least 1 hour. I will not use my phone or any social media site during this hour.*
 
-This system ensures the minimum commitment is met. I aspire to code for more than 1 hour and also fit in a second session in the afternoon/evening. 
+This system ensures the minimum commitment is met. I aspire to code for more than 1 hour and also fit in a second session in the afternoon/evening.
 
 #### Start Date
 Round 1 - December 12th, 2021.
@@ -16,7 +16,7 @@ Round 2 - May 11th 2022. (adjusted rules)
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
 2. If I code at work, that time won't count towards the challenge.
 3. I will push code to GitHub and/or share a screenshot on Twitter every day so that anyone can see my progress.
-4. I will update the Log with the day's progress and provide a link or specify local path.
+4. I will update the [Log](r2-log.md) with the day's progress.
 5. I will divide code challenges between the following categories:
   - My own projects
   - JavaScript practice challenges

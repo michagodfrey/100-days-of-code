@@ -15,7 +15,7 @@ This challenge gives me a system to practice coding. I am currently doing my sec
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
 2. If I code at work, that time won't count towards the challenge.
 3. I will push code to GitHub and/or share a screenshot on Twitter every day so that anyone can see my progress.
-4. I will update the Log with the day's progress and provide a link or specify local path.
+4. I will update the [Log](r2-log.md) with the day's progress.
 5. I will divide code challenges between the following categories:
   - My own projects
   - JavaScript practice challenges
