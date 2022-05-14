@@ -19,3 +19,13 @@
 **Link to work:** https://github.com/michagodfrey/space
 
 **Tweet:** https://twitter.com/Michael07865192/status/1524684442195079168
+
+### Day 3: May 13, 2022
+
+**Today's Progress**: Set up the fetch functions for the local data in the Space tourism site.
+
+**Thoughts:** I struggled with the images a bit until I remembered that images must be in the public folder.
+
+**Link to work:** https://github.com/michagodfrey/space
+
+**Tweet:** https://twitter.com/Michael07865192/status/1525077878010183680
