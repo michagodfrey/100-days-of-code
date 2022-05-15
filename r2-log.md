@@ -2,6 +2,16 @@
 
 ### Day 4: May 14, 2022
 
+**Today's Progress**: More styling and I have a lot to go. Tried to add the mobile slide menu but couldn't get it to display for some reason.
+
+**Thoughts:** The CSS sheet is getting too unweildy. Since FEM is all about presentation, I will refactor the CSS into SASS and make it nice and logical and neat.  
+
+**Link to work:** https://github.com/michagodfrey/space forth commit
+
+**Tweet:** https://twitter.com/Michael07865192/status/1525778714981986310
+
+### Day 4: May 14, 2022
+
 **Today's Progress**: Marathon CSS day stylising the Space project.
 
 **Thoughts:** It is taking longer than I thought. CSS is so fiddly and time consuming building from the bottom up.
