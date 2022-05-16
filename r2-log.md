@@ -1,6 +1,17 @@
 # #100DaysOfCode Log - Round 2
 
-### Day 4: May 14, 2022
+### Day 6: May 16, 2022
+
+**Today's Progress**: Refactored CSS into SCSS files for styling. Used mixins for the media queries for the first time. Started simplyfing the syles. 
+
+**Thoughts:** I like how the SCSS neaten the code so much. You can see how the elements are related to each other more easier and the media queries. 
+
+**Link to work:** https://github.com/michagodfrey/space 5th commit
+
+**Tweet:** https://twitter.com/Michael07865192/status/1526163253239644163
+
+
+### Day 5: May 15, 2022
 
 **Today's Progress**: More styling and I have a lot to go. Tried to add the mobile slide menu but couldn't get it to display for some reason.
 
