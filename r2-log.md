@@ -1,10 +1,20 @@
 # #100DaysOfCode Log - Round 2
 
+### Day 7: May 17, 2022
+
+**Today's Progress**: Continued styling, got some more subtle styles worked out, like blur effects with backdrop-filter and box shadow to make underlines on hover and active states.
+
+**Thoughts:** I feel like I am taking a long time with this project but I want it to be really nice so I can put it on my showcase.
+
+**Link to work:** https://github.com/michagodfrey/space commit 17 May
+
+**Tweet:** https://twitter.com/Michael07865192/status/1526518367657803776
+
 ### Day 6: May 16, 2022
 
-**Today's Progress**: Refactored CSS into SCSS files for styling. Used mixins for the media queries for the first time. Started simplyfing the syles. 
+**Today's Progress**: Refactored CSS into SCSS files for styling. Used mixins for the media queries for the first time. Started simplyfing the syles.
 
-**Thoughts:** I like how the SCSS neaten the code so much. You can see how the elements are related to each other more easier and the media queries. 
+**Thoughts:** I like how the SCSS neaten the code so much. You can see how the elements are related to each other more easier and the media queries.
 
 **Link to work:** https://github.com/michagodfrey/space 5th commit
 
