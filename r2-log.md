@@ -1,5 +1,15 @@
 # #100DaysOfCode Log - Round 2
 
+### Day 8: May 18, 2022
+
+**Today's Progress**: Made a hover effect with key frames that looks ok. The rest of the day was failing at the more tricky stuff. 
+
+**Thoughts:** I worry the last part will be really hard for me and will stretch for days. I think I need to review screen size basics. Started watching a vid on it and I already see I lack some basic knowledge.
+
+**Link to work:** https://github.com/michagodfrey/space commit 18 May
+
+**Tweet:** https://twitter.com/Michael07865192/status/1526892307538395137
+
 ### Day 7: May 17, 2022
 
 **Today's Progress**: Continued styling, got some more subtle styles worked out, like blur effects with backdrop-filter and box shadow to make underlines on hover and active states.
