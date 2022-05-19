@@ -1,8 +1,18 @@
 # #100DaysOfCode Log - Round 2
 
+### Day 9: May 18, 2022
+
+**Today's Progress**: Continued the Space project. Sorted an issued with view height and the sidebar.
+
+**Thoughts:** Progress feels very slow.
+
+**Link to work:** https://github.com/michagodfrey/space commit 19 May
+
+**Tweet:** https://twitter.com/Michael07865192/status/1527259784285925379
+
 ### Day 8: May 18, 2022
 
-**Today's Progress**: Made a hover effect with key frames that looks ok. The rest of the day was failing at the more tricky stuff. 
+**Today's Progress**: Made a hover effect with key frames that looks ok. The rest of the day was failing at the more tricky stuff.
 
 **Thoughts:** I worry the last part will be really hard for me and will stretch for days. I think I need to review screen size basics. Started watching a vid on it and I already see I lack some basic knowledge.
 
