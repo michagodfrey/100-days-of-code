@@ -1,6 +1,16 @@
 # #100DaysOfCode Log - Round 2
 
-### Day 9: May 18, 2022
+### Day 10: May 20, 2022
+
+**Today's Progress**: I figured out how to do the line in the header, display the portrait image on the technology page with react-responsive, and made the nav links show active style when active. However, I had problems using the package, but resolved it. I also spent a long time barking up the wrong tree trying to use Link with useState while NavLink has a specfic isActive function as I found out today.
+
+**Thoughts:** I worry that there will be errors down the road because of the package. I will need to learn more git commands.
+
+**Link to work:** https://github.com/michagodfrey/space commit 20 May
+
+**Tweet:** https://twitter.com/Michael07865192/status/1527612129293266944
+
+### Day 9: May 19, 2022
 
 **Today's Progress**: Continued the Space project. Sorted an issued with view height and the sidebar.
 
