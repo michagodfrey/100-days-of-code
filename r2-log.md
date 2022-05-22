@@ -1,5 +1,15 @@
 # #100DaysOfCode Log - Round 2
 
+### Day 12: May 22, 2022
+
+**Today's Progress**: I finished off and deployed React to GitHub pages and it's not displaying the images. I fixed some paths in the SCSS files and that rendered the background images but I still can't get the main content showing. Tomorrow I will try to use require with the images then changing the urls in the data.json file. If those don't work I'll try displaying all the images as background images. 
+
+**Thoughts:** Typical really. I need to learn more about React Router and deployment.
+
+**Link to work:** https://github.com/michagodfrey/space commit 22 May
+
+**Tweet:** https://twitter.com/Michael07865192/status/1528335264648929280
+
 ### Day 11: May 21, 2022
 
 **Today's Progress**: Installed Framer Motion package and added animations to the Space project as well as final polishing.
@@ -9,7 +19,6 @@
 **Link to work:** https://github.com/michagodfrey/space commit 21 May
 
 **Tweet:** https://twitter.com/Michael07865192/status/1527973061282402306
-
 
 ### Day 10: May 20, 2022
 
