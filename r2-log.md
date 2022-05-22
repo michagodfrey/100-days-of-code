@@ -1,5 +1,16 @@
 # #100DaysOfCode Log - Round 2
 
+### Day 11: May 21, 2022
+
+**Today's Progress**: Installed Framer Motion package and added animations to the Space project as well as final polishing.
+
+**Thoughts:** Was happy with how intuitive Framer Motion is to use and how this
+
+**Link to work:** https://github.com/michagodfrey/space commit 21 May
+
+**Tweet:** https://twitter.com/Michael07865192/status/1527973061282402306
+
+
 ### Day 10: May 20, 2022
 
 **Today's Progress**: I figured out how to do the line in the header, display the portrait image on the technology page with react-responsive, and made the nav links show active style when active. However, I had problems using the package, but resolved it. I also spent a long time barking up the wrong tree trying to use Link with useState while NavLink has a specfic isActive function as I found out today.
