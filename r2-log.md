@@ -1,8 +1,18 @@
 # #100DaysOfCode Log - Round 2
 
+### Day 14 -15: May 24 - 25, 2022
+
+**Today's Progress**: I practised some JS and was exposed to regular expressions for the first time. Also fixed the html and accessibility and issues in the FEM challenge.
+
+**Thoughts:** Need to practice basic stuff with JS so it becomes second nature.
+
+**Link to work:** https://www.frontendmentor.io/solutions/space-tourism-website-built-with-react-and-sassscss-sijuaf2q55
+
+**Tweet:** https://twitter.com/Michael07865192/status/1529399162340806657
+
 ### Day 13: May 23, 2022
 
-**Today's Progress**: Fixed the routes to the images and submitted the to Frontend Mentor. Something I was worried would happen, happened; I used framer motion and that made the solution not display properly - Lol! 
+**Today's Progress**: Fixed the routes to the images and submitted the to Frontend Mentor. Something I was worried would happen, happened; I used framer motion and that made the solution not display properly - Lol!
 
 **Thoughts:** This project showed me I don't understand React well yet and need to study it as well as practice.
 
