@@ -2,6 +2,16 @@
 
 ### Day 14 -15: May 24 - 25, 2022
 
+**Today's Progress**: I practised JS arrays, completing the exercises for Day 5 30 Days of JavaScript. Also watched Leon's Bootcamp video on backend.
+
+**Thoughts:** I wanted to work on projects but I couldn't. No inpsiration. Sometimes I wonder if frontend dev is right for me.
+
+**Link to work:** https://github.com/michagodfrey/30-Days-Of-JavaScript/tree/master/05_Day_Arrays/05_day_starter
+
+**Tweet:** https://twitter.com/Michael07865192/status/1529789858272919552
+
+### Day 14 -15: May 24 - 25, 2022
+
 **Today's Progress**: I practised some JS and was exposed to regular expressions for the first time. Also fixed the html and accessibility and issues in the FEM challenge.
 
 **Thoughts:** Need to practice basic stuff with JS so it becomes second nature.
