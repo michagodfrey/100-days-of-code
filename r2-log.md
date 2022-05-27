@@ -1,6 +1,17 @@
 # #100DaysOfCode Log - Round 2
 
-### Day 14 -15: May 24 - 25, 2022
+### Day 17: May 26, 2022
+
+**Today's Progress**: I practiced loops, studied how JS works with web apis and promises and started working on the Fiji site. This needs and over haul if it's going to be on my project showcase. 
+
+**Thoughts:** The 100Devs looks like a great course with good job focussed stuff.
+
+**Link to work:** https://github.com/michagodfrey/fiji
+
+**Tweet:** https://twitter.com/Michael07865192/status/1530158451917455361
+
+
+### Day 16: May 26, 2022
 
 **Today's Progress**: I practised JS arrays, completing the exercises for Day 5 30 Days of JavaScript. Also watched Leon's Bootcamp video on backend.
 
