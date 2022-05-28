@@ -1,8 +1,18 @@
 # #100DaysOfCode Log - Round 2
 
-### Day 17: May 26, 2022
+### Day 18: May 28, 2022
 
-**Today's Progress**: I practiced loops, studied how JS works with web apis and promises and started working on the Fiji site. This needs and over haul if it's going to be on my project showcase. 
+**Today's Progress**: Practiced JavaScript functions, studied how JavaScript event loop works, and started a trivia flashcard app using trivia API. I will use this to practice working with APIs and add things like buttons, multiple choice, score etc
+
+**Thoughts:** I got a lot done today
+
+**Link to work:** https://github.com/michagodfrey/30-Days-Of-JavaScript
+
+**Tweet:** https://twitter.com/Michael07865192/status/1530509554202865664
+
+### Day 17: May 27, 2022
+
+**Today's Progress**: I practiced loops, studied how JS works with web apis and promises and started working on the Fiji site. This needs and over haul if it's going to be on my project showcase.
 
 **Thoughts:** The 100Devs looks like a great course with good job focussed stuff.
 
