@@ -1,5 +1,15 @@
 # #100DaysOfCode Log - Round 2
 
+### Day 19: May 29, 2022
+
+**Today's Progress**: I tried to do 100Devs homework after watching videos. I tried to follow a text tutorial but got stuck. Worked with the code a bit and made a dice flip game where the random face is generated on the server side.
+
+**Thoughts:** #100 Devs looks like a great bootcamp. I spent most of my time trying to make a cool flip animation but couldn't manage it in the time available. 
+
+**Link to work:** My device: Web/100Devs/class37-materials/node-backend-simple-json
+
+**Tweet:** https://twitter.com/Michael07865192/status/1530891072704249859
+
 ### Day 18: May 28, 2022
 
 **Today's Progress**: Practiced JavaScript functions, studied how JavaScript event loop works, and started a trivia flashcard app using trivia API. I will use this to practice working with APIs and add things like buttons, multiple choice, score etc
