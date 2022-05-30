@@ -1,10 +1,20 @@
 # #100DaysOfCode Log - Round 2
 
+### Day 20: May 30, 2022
+
+**Today's Progress**: Worked on making the server side coin flip but got stuck when I modified the borrowed style. Wasted a lot of time. 
+
+**Thoughts:** I am unlucky.
+
+**Link to work:** https://github.com/michagodfrey/coin-flip first commit this date
+
+**Tweet:** https://twitter.com/Michael07865192/status/1531250389768900609
+
 ### Day 19: May 29, 2022
 
 **Today's Progress**: I tried to do 100Devs homework after watching videos. I tried to follow a text tutorial but got stuck. Worked with the code a bit and made a dice flip game where the random face is generated on the server side.
 
-**Thoughts:** #100 Devs looks like a great bootcamp. I spent most of my time trying to make a cool flip animation but couldn't manage it in the time available. 
+**Thoughts:** #100 Devs looks like a great bootcamp. I spent most of my time trying to make a cool flip animation but couldn't manage it in the time available.
 
 **Link to work:** My device: Web/100Devs/class37-materials/node-backend-simple-json
 
