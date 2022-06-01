@@ -1,5 +1,15 @@
 # #100DaysOfCode Log - Round 2
 
+### Day 22: June 1, 2022
+
+**Today's Progress**: I started doing a CSS drawing as I didn't have much time to dedicate to coding today, but abandoned that and practiced objects in 100 days of JavaScript.
+
+**Thoughts:** but I realized that this is a dumb(ish) to practice CSS art.
+
+**Link to work:** https://github.com/michagodfrey/30-Days-Of-JavaScript
+
+**Tweet:** https://twitter.com/Michael07865192/status/1531970017021276160
+
 ### Day 21: May 31, 2022
 
 **Today's Progress**: I got the server side coin flip game working well and improved the code (the other #100Devs homework task)
