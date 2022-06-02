@@ -2,6 +2,16 @@
 
 ### Day 22: June 1, 2022
 
+**Today's Progress**:  Did a bit more on objects, some of the harder stuff. But I didn't get much else done, lots of distractions
+
+**Thoughts:** That's the good thing about this challenged, it forces me to do the minimum.
+
+**Link to work:** https://github.com/michagodfrey/30-Days-Of-JavaScript
+
+**Tweet:** https://twitter.com/Michael07865192/status/1532325689013444608
+
+### Day 22: June 1, 2022
+
 **Today's Progress**: I started doing a CSS drawing as I didn't have much time to dedicate to coding today, but abandoned that and practiced objects in 100 days of JavaScript.
 
 **Thoughts:** but I realized that this is a dumb(ish) to practice CSS art.
