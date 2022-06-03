@@ -1,6 +1,17 @@
 # #100DaysOfCode Log - Round 2
 
-### Day 22: June 1, 2022
+### Day 24: June 3, 2022
+
+**Today's Progress**:  Practiced a litte JavaScript. Watched #100Devs lecture on Express. Refactored coin-flip game to Express.
+
+**Thoughts:** The only way to get it done is to dive into it. Also, my tweets that admit struggle or failure get a lot more traction. Not good actually.
+
+**Link to work:** https://github.com/michagodfrey/coin-flip commit this date
+
+**Tweet:** https://twitter.com/Michael07865192/status/1532684709645656065
+
+
+### Day 23: June 2, 2022
 
 **Today's Progress**:  Did a bit more on objects, some of the harder stuff. But I didn't get much else done, lots of distractions
 
