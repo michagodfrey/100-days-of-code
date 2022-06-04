@@ -1,5 +1,15 @@
 # #100DaysOfCode Log - Round 2
 
+### Day 25: June 4, 2022
+
+**Today's Progress**:  Started doing up and project I made for the Treehouse TechDegree.
+
+**Thoughts:** For some reason it didin't deploy properly to gh-pages when I set the deployment from the main branch
+
+**Link to work:** https://github.com/michagodfrey/phrase-guessing-game
+
+**Tweet:** https://twitter.com/Michael07865192/status/1533046125129007104
+
 ### Day 24: June 3, 2022
 
 **Today's Progress**:  Practiced a litte JavaScript. Watched #100Devs lecture on Express. Refactored coin-flip game to Express.
