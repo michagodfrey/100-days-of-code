@@ -1,5 +1,15 @@
 # #100DaysOfCode Log - Round 2
 
+### Day 26: June 5, 2022
+
+**Today's Progress**:  Made a Node.js app that will randomly select a phrase from an object and send it as json. This will be for and API hosted on Heroku
+
+**Thoughts:** I enjoyed working on this today.
+
+**Link to work:** https://github.com/michagodfrey/phrase-api
+
+**Tweet:** https://twitter.com/Michael07865192/status/1533427627348078592
+
 ### Day 25: June 4, 2022
 
 **Today's Progress**:  Started doing up and project I made for the Treehouse TechDegree.
