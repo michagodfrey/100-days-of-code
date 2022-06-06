@@ -2,7 +2,17 @@
 
 ### Day 26: June 5, 2022
 
-**Today's Progress**:  Made a Node.js app that will randomly select a phrase from an object and send it as json. This will be for and API hosted on Heroku
+**Today's Progress**:  Got Heroku up and running but didn't have time for much else/
+
+**Thoughts:** It's good to have an option for hosting server side apps.
+
+**Link to work:** https://random-phrase.herokuapp.com/
+
+**Tweet:** https://twitter.com/Michael07865192/status/1533780641682423808
+
+### Day 26: June 5, 2022
+
+**Today's Progress**:  Made a Node.js app that will randomly select a phrase from an object and send it as json. This will be for an API hosted on Heroku
 
 **Thoughts:** I enjoyed working on this today.
 
