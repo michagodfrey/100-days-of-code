@@ -1,8 +1,18 @@
 # #100DaysOfCode Log - Round 2
 
-### Day 26: June 5, 2022
+### Day 28: June 7, 2022
 
-**Today's Progress**:  Got Heroku up and running but didn't have time for much else/
+**Today's Progress**:  I got the fetch working in the phrase guessing game. Added phrases to the Heroku app. Added images and other aesthetics to the game. Added definition and examples at the end. 
+
+**Thoughts:** Happy with this one.
+
+**Link to work:** https://michagodfrey.github.io/phrase-guessing-game/
+
+**Tweet:** https://twitter.com/Michael07865192/status/1534127766584832000
+
+### Day 27: June 6, 2022
+
+**Today's Progress**:  Got Heroku up and running but didn't have time for much else.
 
 **Thoughts:** It's good to have an option for hosting server side apps.
 
