@@ -2,7 +2,17 @@
 
 ### Day 28: June 7, 2022
 
-**Today's Progress**:  I got the fetch working in the phrase guessing game. Added phrases to the Heroku app. Added images and other aesthetics to the game. Added definition and examples at the end. 
+**Today's Progress**:  I made the phrase guessing game more mobile responsive and added it to my project showcase. Also tried to add a loader function but failed.  
+
+**Thoughts:** Some bad luck these last 2 days but I've had more distractions than usual.
+
+**Link to work:** https://michagodfrey.github.io/
+
+**Tweet:** https://twitter.com/Michael07865192/status/1534849863959347201
+
+### Day 28: June 7, 2022
+
+**Today's Progress**:  I got the fetch working in the phrase guessing game. Added phrases to the Heroku app. Added images and other aesthetics to the game. Added definition and examples at the end.
 
 **Thoughts:** Happy with this one.
 
