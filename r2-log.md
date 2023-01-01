@@ -1,6 +1,6 @@
-# #100DaysOfCode Log - Round 2
+#100DaysOfCode Log - Round 2
 
-### Day 28: June 7, 2022
+### Day 29 - 30: June 8 - 9, 2022
 
 **Today's Progress**:  I made the phrase guessing game more mobile responsive and added it to my project showcase. Also tried to add a loader function but failed.  
 
