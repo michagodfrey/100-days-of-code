@@ -1,4 +1,16 @@
-#100DaysOfCode Log - Round 3
+#100DaysOfCode Log - Round 3 ✅
+
+✅
+
+### Day 2, 2 January 2023
+
+**Today's Progress**: Picked up where I left off on FreeCodeCamp. Worked on POWR app for one hour, was mostly planning and testing some functions.
+
+**Thoughts:** The Free Code Camp exercises I did today
+
+**Link to work:** https://github.com/michagodfrey/powr (5th commit), https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming Functional programming
+
+**Tweet:** https://twitter.com/Michael07865192/status/1609843259240767488
 
 ### Day 1, 1 January 2023
 
