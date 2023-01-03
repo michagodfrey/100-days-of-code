@@ -1,6 +1,14 @@
 #100DaysOfCode Log - Round 3 ✅
 
-✅
+### Day 3, 3 January 2023
+
+**Today's Progress**: Finished the functional programming challenges and got the creat workout element working in React. 
+
+**Thoughts:** Got a little help with ChatGPT today. Although I never used the functions it wrote, it helped me understand the process and solve a problem I had.
+
+**Link to work:** https://github.com/michagodfrey/powr (5th commit), https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming Functional programming
+
+**Tweet:** https://twitter.com/Michael07865192/status/1610215134701707266
 
 ### Day 2, 2 January 2023
 
