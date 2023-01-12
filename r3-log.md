@@ -1,5 +1,36 @@
 #100DaysOfCode Log - Round 3 ✅
 
+### Day 11, 12 January 2023
+
+**Today's Progress**: Fixed issue in POWR app with authentication and user.uid.
+
+**Thoughts:** I like this challenge
+
+**Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting and https://github.com/michagodfrey/powr
+
+**Tweet:** https://twitter.com/Michael07865192/status/1613443666634485760
+
+### Day 10, 11 January 2023
+
+**Today's Progress**: Completed 7 challenges in intermedite algorithms.
+
+**Thoughts:** I made good progress today.
+
+**Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting
+
+**Tweet:** https://twitter.com/Michael07865192/status/1613102312490426370
+
+### Day 9, 9 January 2023
+
+**Today's Progress**: Made delete function
+
+**Thoughts:** Found an issue with the authentication, so can't delete by user.uid yet.
+
+**Link to work:** https://github.com/michagodfrey/powr
+
+**Tweet:** https://twitter.com/Michael07865192/status/1612245028746989568
+
+
 ### Day 8, 8 January 2023
 
 **Today's Progress**: Worked out the problem with the Reaact app, it is now creating and reading data.
