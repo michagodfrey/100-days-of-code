@@ -1,5 +1,45 @@
 #100DaysOfCode Log - Round 3 ✅
 
+### Day 15, 16 January 2023
+
+**Today's Progress**: Did a 7ku CodeWars
+
+**Thoughts:** Looking forward to getting back into CodeWars
+
+**Link to work:** https://www.codewars.com/users/michagodfrey/completed_solutions
+
+**Tweet:** https://twitter.com/Michael07865192/status/1614902055071797254
+
+### Day 14, 15 January 2023
+
+**Today's Progress**: Updated carousel on my freelance page to replace bootstrap file
+
+**Thoughts:** My website is now slimmer
+
+**Link to work:** https://github.com/michagodfrey/michael-godfrey.com
+
+**Tweet:** https://twitter.com/Michael07865192/status/1614544383302565889
+
+### Day 13, 14 January 2023
+
+**Today's Progress**: Completed the JavaScript course by Free Code Camp
+
+**Thoughts:** Got the certificate!
+
+**Link to work:** https://www.freecodecamp.org/certification/fcc751d8781-29d1-483c-a21c-56f4aa5c0727/javascript-algorithms-and-data-structures
+
+**Tweet:** https://twitter.com/Michael07865192/status/1614175422958415877
+
+### Day 12, 13 January 2023
+
+**Today's Progress**: Completed 4/5 intermediate JavaScript projects
+
+**Thoughts:** Was surprised at my progress today
+
+**Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/ and https://github.com/michagodfrey/powr
+
+**Tweet:** https://twitter.com/Michael07865192/status/1613814520862085120
+
 ### Day 11, 12 January 2023
 
 **Today's Progress**: Fixed issue in POWR app with authentication and user.uid.
