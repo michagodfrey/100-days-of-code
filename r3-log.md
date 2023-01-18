@@ -1,5 +1,25 @@
 #100DaysOfCode Log - Round 3 ✅
 
+### Day 17, 18 January 2023
+
+**Today's Progress**: Did 2 x 7ku CodeWars. Was working on the form validation some more.
+
+**Thoughts:** Will try to mix it up a bit going forward.
+
+**Link to work:** https://www.codewars.com/users/michagodfrey/completed_solutions, https://github.com/michagodfrey/powr
+
+**Tweet:** https://twitter.com/Michael07865192/status/1615627703973187584
+
+### Day 16, 17 January 2023
+
+**Today's Progress**: Added useReducer to POWR and one CodeWars kata
+
+**Thoughts:** Glad to try something other that useEffect or useState.
+
+**Link to work:** https://github.com/michagodfrey/powr
+
+**Tweet:** https://twitter.com/Michael07865192/status/1615261947590750208
+
 ### Day 15, 16 January 2023
 
 **Today's Progress**: Did a 7ku CodeWars
