@@ -1,10 +1,40 @@
 #100DaysOfCode Log - Round 3 ✅
 
-### Day 95, 5 April 2023
+### Day 100, 11 April 2023
+
+**Today's Progress**: 🎉🥳 For the last day of the challenge, I made a chatbot using OpenAI. Just for fun, the bot takes on a personality of a Robot, Superhero, Hippie or Yoda. I think I need to work on the promts though. Give it a go: https://personality-bot.vercel.app
+
+**Tweet**: https://twitter.com/Michael07865192/status/1645739365836922880
+
+### Day 99, 10 April 2023
+
+**Today's Progress**: I spent the coding time today revising Node and Express and how it works with requests and responses from the frontend. Something I've neglected for too long. I'll see if I can make something to show for the final day of the challenge tomorrow
+
+**Tweet**: https://twitter.com/Michael07865192/status/1645363114177888256
+
+### Day 98, 9 April 2023
+
+**Today's Progress**:  ✅ 6kyu kata on CodeWars ✅ Fixed up the JavaScript in my accordion I made a while ✅ Did my first CSS Battle
+
+**Tweet**: https://twitter.com/Michael07865192/status/1644975233621970947
+
+### Day 97, 8 April 2023
+
+**Today's Progress**: Today I made this carousel slider. I find components like these quite tricky to get right but satisfing when they work https://replit.com/@MG-Replit/CarouselOverflow cc @Karim32882557
+
+**Tweet**: https://twitter.com/Michael07865192/status/1644624336316420097
+
+### Day 96, 7 April 2023
+
+**Today's Progress**: Spent my coding time working on a carousel slider with overflow hidden. Didn't achieve the look and function how I want yet
+
+**Tweet**: https://twitter.com/Michael07865192/status/1644267296083578880
+
+### Day 95, 6 April 2023
 
 **Today's Progress**: I have neglected recording my 100DaysOfCode progress since day 19, so today I wrote some Python scripts to scrape my 100DaysOfCode tweets and write them to a md file.
 
-**Tweet**: 
+**Tweet**: https://twitter.com/Michael07865192/status/1643884758978682881
 
 ### Day 94 2023-04-05 08:49:54+00:00
 
